@@ -1,0 +1,14 @@
+{
+  "title" : "University Domains and Names Data List & API",
+  "url" : "https://github.com/Hipo/university-domains-list/blob/master/README.md",
+  "type" : "submodule",
+  "owner" : "Hipo",
+  "description" : "JSON file — world_universities_and_domains.json — that contains domains, names and countries of most of the universities of the world.",
+  "license" : "MIT",
+  "format" : "JSON",
+  "structure" : "JSON dictionary with 'alpha_two_code', 'country', 'state-province', 'domains', 'name', 'web_pages'",
+  "contributor" : "Bob Rudis (@hrbrmstr)",
+  "added" : "2018-04-03",
+  "last_modified" : "2018-04-03",
+  "comments" : ""
+}

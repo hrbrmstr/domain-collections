@@ -1,0 +1,6 @@
+[submodule "university-domains/university-domains-list"]
+	path = university-domains/university-domains-list
+	url = https://github.com/Hipo/university-domains-list
+[submodule "dot-gov-domains/gsa-data"]
+	path = dot-gov-domains/gsa-data
+	url = https://github.com/GSA/data

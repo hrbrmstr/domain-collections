@@ -1,0 +1,15 @@
+{
+  "title" : ".Gov Domains",
+  "url" : "https://catalog.data.gov/dataset/gov-domains-api-c9856",
+  "type" : "submodule",
+  "owner" : "U.S. GSA",
+  "description" : "This datasets in the subdirectory `dotgov-domains/ `offers the list of all .gov domains, including state, local, and tribal .gov domains. It does not include .mil domains, or other federal domains outside of .gov and .fed.us.",
+  "license" : "Creative Commons CCZero",
+  "format" : "CSV",
+  "structure" : "CSV file with fields 'Domain Name', 'Domain Type', 'Agency', 'City', 'State'",
+  "contributor" : "Bob Rudis (@hrbrmstr)",
+  "added" : "2018-04-03",
+  "last_modified" : "2018-04-03",
+  "comments" : "There are 2 CSV files in `dotgov-domains/`, one for Federal and one for all of U.S.",
+  "auto_update_enabled" : true
+}

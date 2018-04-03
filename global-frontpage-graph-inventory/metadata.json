@@ -1,0 +1,15 @@
+{
+  "title" : "Global Frontpage Graph Inveitiry",
+  "url" : "https://blog.gdeltproject.org/global-frontpage-graph-gfg-inventory-sheet-charset-language-breakdown/",
+  "type" : "internet",
+  "owner" : "GDELT GFG Project",
+  "description" : "50,000+ news website homepage list curated by GDELT",
+  "license" : "Open/Unknown",
+  "format" : "TSV",
+  "structure" : "TSV file with NO HEADER; fields are 'URL', 'encoding', 'lang2', 'language'",
+  "contributor" : "Bob Rudis (@hrbrmstr)",
+  "added" : "2018-04-03",
+  "last_modified" : "2018-04-03",
+  "comments" : "Source data file is renamed to `data/gfg-inventory.tsv`",
+  "auto_update_enabled" : false
+}

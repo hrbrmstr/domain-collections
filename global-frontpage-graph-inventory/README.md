@@ -1,0 +1,6 @@
+# GDELT Global Frontpage Graph Inventory
+
+>_"The GDELT Global Frontpage Graph (GFG) has generated incredible interest in just its first three weeks of existence, so in addition to publishing a first glimpse at some of the statistics you can extract from it, we've also compiled an inventory sheet derived from the March 21, 2018 noon UTC snapshot that lists every unique frontpage we successfully scanned in that snapshot, the native characterset it was encoded in (we transcode everything to UTF-8) and the primary language of the page as estimated by Google's Chrome Language Detector 2 (CLD2). This can be used to filter the hourly snapshots to just specific languages of interest. We are also working to construct a country lookup that records the country of origin for each outlet to further assist analyses."_
+
+- Source: https://blog.gdeltproject.org/global-frontpage-graph-gfg-inventory-sheet-charset-language-breakdown/
+- Data File Direct Link: http://data.gdeltproject.org/blog/2018-global-frontpage-graph/GFG-INVENTORY-2018032112.TXT
