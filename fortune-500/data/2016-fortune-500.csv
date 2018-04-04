@@ -1,0 +1,501 @@
+Rank,Company,Revenue (M USD),Fortune.com link about company,Website
+1,Walmart,"$482,130",http://www.fortune.com/fortune500/walmart-1,www.walmart.com
+2,Exxon Mobil,"$246,204",http://www.fortune.com/fortune500/exxon-mobil-2,www.exxonmobil.com
+3,Apple,"$233,715",http://www.fortune.com/fortune500/apple-3,www.apple.com
+4,Berkshire Hathaway,"$210,821",http://www.fortune.com/fortune500/berkshire-hathaway-4,www.berkshirehathaway.com
+5,McKesson,"$181,241",http://www.fortune.com/fortune500/mckesson-5,www.mckesson.com
+6,UnitedHealth Group,"$157,107",http://www.fortune.com/fortune500/unitedhealth-group-6,www.unitedhealthgroup.com
+7,CVS Health,"$153,290",http://www.fortune.com/fortune500/cvs-health-7,www.cvshealth.com
+8,General Motors,"$152,356",http://www.fortune.com/fortune500/general-motors-8,www.gm.com
+9,Ford Motor,"$149,558",http://www.fortune.com/fortune500/ford-motor-9,www.ford.com
+10,AT&T,"$146,801",http://www.fortune.com/fortune500/att-10,www.att.com
+11,General Electric,"$140,389",http://www.fortune.com/fortune500/general-electric-11,www.ge.com
+12,AmerisourceBergen,"$135,962",http://www.fortune.com/fortune500/amerisourcebergen-12,www.amerisourcebergen.com
+13,Verizon,"$131,620",http://www.fortune.com/fortune500/verizon-communications-13,www.verizon.com
+14,Chevron,"$131,118",http://www.fortune.com/fortune500/chevron-14,www.chevron.com
+15,Costco,"$116,199",http://www.fortune.com/fortune500/costco-wholesale-15,www.costco.com
+16,Fannie Mae,"$110,359",http://www.fortune.com/fortune500/fannie-mae-16,www.fanniemae.com
+17,Kroger,"$109,830",http://www.fortune.com/fortune500/kroger-17,www.thekrogerco.com
+18,Amazon,"$107,006",http://www.fortune.com/fortune500/amazon-com-18,www.amazon.com
+19,Walgreens Boots Alliance,"$103,444",http://www.fortune.com/fortune500/walgreens-boots-alliance-19,www.walgreensbootsalliance.com
+20,HP,"$103,355",http://www.fortune.com/fortune500/hp-20,www.hp.com
+21,Cardinal Health,"$102,531",http://www.fortune.com/fortune500/cardinal-health-21,www.cardinal.com
+22,Express Scripts Holding,"$101,752",http://www.fortune.com/fortune500/express-scripts-holding-22,www.express-scripts.com
+23,J.P. Morgan Chase,"$101,006",http://www.fortune.com/fortune500/jpmorgan-chase-23,www.jpmorganchase.com
+24,Boeing,"$96,114",http://www.fortune.com/fortune500/boeing-24,www.boeing.com
+25,Microsoft,"$93,580",http://www.fortune.com/fortune500/microsoft-25,www.microsoft.com
+26,Bank of America Corp.,"$93,056",http://www.fortune.com/fortune500/bank-of-america-corp-26,www.bankofamerica.com
+27,Wells Fargo,"$90,033",http://www.fortune.com/fortune500/wells-fargo-27,www.wellsfargo.com
+28,Home Depot,"$88,519",http://www.fortune.com/fortune500/home-depot-28,www.homedepot.com
+29,Citigroup,"$88,275",http://www.fortune.com/fortune500/citigroup-29,www.citigroup.com
+30,Phillips 66,"$87,169",http://www.fortune.com/fortune500/phillips-66-30,www.phillips66.com
+31,IBM,"$82,461",http://www.fortune.com/fortune500/ibm-31,www.ibm.com
+32,Valero Energy,"$81,824",http://www.fortune.com/fortune500/valero-energy-32,www.valero.com
+33,Anthem,"$79,157",http://www.fortune.com/fortune500/anthem-33,www.antheminc.com
+34,Procter & Gamble,"$78,756",http://www.fortune.com/fortune500/procter-gamble-34,www.pg.com
+35,State Farm Insurance Cos.,"$75,697",http://www.fortune.com/fortune500/state-farm-insurance-cos-35,www.statefarm.com
+36,Alphabet,"$74,989",http://www.fortune.com/fortune500/alphabet-36,www.google.com
+37,Comcast,"$74,510",http://www.fortune.com/fortune500/comcast-37,www.comcastcorporation.com
+38,Target,"$73,785",http://www.fortune.com/fortune500/target-38,www.target.com
+39,Johnson & Johnson,"$70,074",http://www.fortune.com/fortune500/johnson-johnson-39,www.jnj.com
+40,MetLife,"$69,951",http://www.fortune.com/fortune500/metlife-40,www.metlife.com
+41,Archer Daniels Midland,"$67,702",http://www.fortune.com/fortune500/archer-daniels-midland-41,www.adm.com
+42,Marathon Petroleum,"$64,566",http://www.fortune.com/fortune500/marathon-petroleum-42,www.marathonpetroleum.com
+43,Freddie Mac,"$63,491",http://www.fortune.com/fortune500/freddie-mac-43,www.freddiemac.com
+44,PepsiCo,"$63,056",http://www.fortune.com/fortune500/pepsico-44,www.pepsico.com
+45,United Technologies,"$61,047",http://www.fortune.com/fortune500/united-technologies-45,www.utc.com
+46,Aetna,"$60,337",http://www.fortune.com/fortune500/aetna-46,www.aetna.com
+47,Lowe’s,"$59,074",http://www.fortune.com/fortune500/lowes-47,www.lowes.com
+48,UPS,"$58,363",http://www.fortune.com/fortune500/ups-48,www.ups.com
+49,AIG,"$58,327",http://www.fortune.com/fortune500/aig-49,www.aig.com
+50,Prudential Financial,"$57,119",http://www.fortune.com/fortune500/prudential-financial-50,www.prudential.com
+51,Intel,"$55,355",http://www.fortune.com/fortune500/intel-51,www.intel.com
+52,Humana,"$54,289",http://www.fortune.com/fortune500/humana-52,www.humana.com
+53,Disney,"$52,465",http://www.fortune.com/fortune500/disney-53,www.disney.com
+54,Cisco Systems,"$49,161",http://www.fortune.com/fortune500/cisco-systems-54,www.cisco.com
+55,Pfizer,"$48,851",http://www.fortune.com/fortune500/pfizer-55,www.pfizer.com
+56,Dow Chemical,"$48,778",http://www.fortune.com/fortune500/dow-chemical-56,www.dow.com
+57,Sysco,"$48,681",http://www.fortune.com/fortune500/sysco-57,www.sysco.com
+58,FedEx,"$47,453",http://www.fortune.com/fortune500/fedex-58,www.fedex.com
+59,Caterpillar,"$47,011",http://www.fortune.com/fortune500/caterpillar-59,www.caterpillar.com
+60,Lockheed Martin,"$46,132",http://www.fortune.com/fortune500/lockheed-martin-60,www.lockheedmartin.com
+61,New York Life Insurance,"$45,891",http://www.fortune.com/fortune500/new-york-life-insurance-61,www.newyorklife.com
+62,Coca-Cola,"$44,294",http://www.fortune.com/fortune500/coca-cola-62,www.coca-colacompany.com
+63,HCA Holdings,"$43,591",http://www.fortune.com/fortune500/hca-holdings-63,www.hcahealthcare.com
+64,Ingram Micro,"$43,026",http://www.fortune.com/fortune500/ingram-micro-64,www.ingrammicro.com
+65,Energy Transfer Equity,"$42,126",http://www.fortune.com/fortune500/energy-transfer-equity-65,www.energytransfer.com
+66,Tyson Foods,"$41,373",http://www.fortune.com/fortune500/tyson-foods-66,www.tysonfoods.com
+67,American Airlines Group,"$40,990",http://www.fortune.com/fortune500/american-airlines-group-67,www.aa.com
+68,Delta Air Lines,"$40,704",http://www.fortune.com/fortune500/delta-air-lines-68,www.delta.com
+69,Nationwide,"$40,222",http://www.fortune.com/fortune500/nationwide-69,www.nationwide.com
+70,Johnson Controls,"$40,204",http://www.fortune.com/fortune500/johnson-controls-70,www.johnsoncontrols.com
+71,Best Buy,"$39,745",http://www.fortune.com/fortune500/best-buy-71,www.bestbuy.com
+72,Merck,"$39,498",http://www.fortune.com/fortune500/merck-72,www.merck.com
+73,Liberty Mutual Insurance Group,"$39,450",http://www.fortune.com/fortune500/liberty-mutual-insurance-group-73,www.libertymutual.com
+74,Goldman Sachs Group,"$39,208",http://www.fortune.com/fortune500/goldman-sachs-group-74,www.gs.com
+75,Honeywell International,"$38,581",http://www.fortune.com/fortune500/honeywell-international-75,www.honeywell.com
+76,Massachusetts Mutual Life Insurance,"$38,243",http://www.fortune.com/fortune500/massachusetts-mutual-life-76,www.massmutual.com
+77,Oracle,"$38,226",http://www.fortune.com/fortune500/oracle-77,www.oracle.com
+78,Morgan Stanley,"$37,897",http://www.fortune.com/fortune500/morgan-stanley-78,www.morganstanley.com
+79,Cigna,"$37,876",http://www.fortune.com/fortune500/cigna-79,www.cigna.com
+80,United Continental Holdings,"$37,864",http://www.fortune.com/fortune500/united-continental-holdings-80,www.unitedcontinentalholdings.com
+81,Allstate,"$35,653",http://www.fortune.com/fortune500/allstate-81,www.allstate.com
+82,TIAA,"$35,181",http://www.fortune.com/fortune500/tiaa-82,www.tiaa.org
+83,INTL FCStone,"$34,693",http://www.fortune.com/fortune500/intl-fcstone-83,www.intlfcstone.com
+84,CHS,"$34,582",http://www.fortune.com/fortune500/chs-84,www.chsinc.com
+85,American Express,"$34,441",http://www.fortune.com/fortune500/american-express-85,www.americanexpress.com
+86,Gilead Sciences,"$32,639",http://www.fortune.com/fortune500/gilead-sciences-86,www.gilead.com
+87,Publix Super Markets,"$32,619",http://www.fortune.com/fortune500/publix-super-markets-87,www.publix.com
+88,General Dynamics,"$31,469",http://www.fortune.com/fortune500/general-dynamics-88,www.generaldynamics.com
+89,TJX,"$30,945",http://www.fortune.com/fortune500/tjx-89,www.tjx.com
+90,ConocoPhillips,"$30,935",http://www.fortune.com/fortune500/conocophillips-90,www.conocophillips.com
+91,Nike,"$30,601",http://www.fortune.com/fortune500/nike-91,www.nike.com
+92,World Fuel Services,"$30,380",http://www.fortune.com/fortune500/world-fuel-services-92,www.wfscorp.com
+93,3M,"$30,274",http://www.fortune.com/fortune500/3m-93,www.3m.com
+94,Mondelez International,"$29,636",http://www.fortune.com/fortune500/mondelez-international-94,www.mondelezinternational.com
+95,Exelon,"$29,447",http://www.fortune.com/fortune500/exelon-95,www.exeloncorp.com
+96,Twenty-First Century Fox,"$28,987",http://www.fortune.com/fortune500/twenty-first-century-fox-96,www.21cf.com
+97,Deere,"$28,863",http://www.fortune.com/fortune500/deere-97,www.johndeere.com
+98,Tesoro,"$28,150",http://www.fortune.com/fortune500/tesoro-98,www.tsocorp.com
+99,Time Warner,"$28,118",http://www.fortune.com/fortune500/time-warner-99,www.timewarner.com
+100,Northwestern Mutual,"$28,111",http://www.fortune.com/fortune500/northwestern-mutual-100,www.northwesternmutual.com
+101,DuPont,"$27,940",http://www.fortune.com/fortune500/dupont-101,www.dupont.com
+102,Avnet,"$27,925",http://www.fortune.com/fortune500/avnet-102,www.avnet.com
+103,Macy’s,"$27,079",http://www.fortune.com/fortune500/macys-103,www.macysinc.com
+104,Enterprise Products Partners,"$27,028",http://www.fortune.com/fortune500/enterprise-products-104,www.enterpriseproducts.com
+105,Travelers Cos.,"$26,800",http://www.fortune.com/fortune500/travelers-cos-105,www.travelers.com
+106,Philip Morris International,"$26,794",http://www.fortune.com/fortune500/philip-morris-international-106,www.pmi.com
+107,Rite Aid,"$26,528",http://www.fortune.com/fortune500/rite-aid-107,www.riteaid.com
+108,Tech Data,"$26,380",http://www.fortune.com/fortune500/tech-data-108,www.techdata.com
+109,McDonald’s,"$25,413",http://www.fortune.com/fortune500/mcdonalds-109,www.aboutmcdonalds.com
+110,Qualcomm,"$25,281",http://www.fortune.com/fortune500/qualcomm-110,www.qualcomm.com
+111,Sears Holdings,"$25,146",http://www.fortune.com/fortune500/sears-holdings-111,www.searsholdings.com
+112,Capital One Financial,"$25,098",http://www.fortune.com/fortune500/capital-one-financial-112,www.capitalone.com
+113,EMC,"$24,704",http://www.fortune.com/fortune500/emc-113,www.emc.com
+114,USAA,"$24,361",http://www.fortune.com/fortune500/united-services-auto-assn-114,www.usaa.com
+115,Duke Energy,"$24,002",http://www.fortune.com/fortune500/duke-energy-115,www.duke-energy.com
+116,Time Warner Cable,"$23,697",http://www.fortune.com/fortune500/time-warner-cable-116,www.twc.com
+117,Halliburton,"$23,633",http://www.fortune.com/fortune500/halliburton-117,www.halliburton.com
+118,Northrop Grumman,"$23,526",http://www.fortune.com/fortune500/northrop-grumman-118,www.northropgrumman.com
+119,Arrow Electronics,"$23,282",http://www.fortune.com/fortune500/arrow-electronics-119,www.arrow.com
+120,Raytheon,"$23,247",http://www.fortune.com/fortune500/raytheon-120,www.raytheon.com
+121,Plains GP Holdings,"$23,152",http://www.fortune.com/fortune500/plains-gp-holdings-121,www.plainsallamerican.com
+122,US Foods Holding,"$23,128",http://www.fortune.com/fortune500/us-foods-holding-122,www.usfoods.com
+123,AbbVie,"$22,859",http://www.fortune.com/fortune500/abbvie-123,www.abbvie.com
+124,Centene,"$22,795",http://www.fortune.com/fortune500/centene-124,www.centene.com
+125,Community Health Systems,"$22,678",http://www.fortune.com/fortune500/community-health-systems-125,www.chs.net
+126,Alcoa,"$22,534",http://www.fortune.com/fortune500/alcoa-126,www.alcoa.com
+127,International Paper,"$22,365",http://www.fortune.com/fortune500/international-paper-127,www.internationalpaper.com
+128,Emerson Electric,"$22,304",http://www.fortune.com/fortune500/emerson-electric-128,www.emerson.com
+129,Union Pacific,"$21,813",http://www.fortune.com/fortune500/union-pacific-129,www.up.com
+130,Amgen,"$21,662",http://www.fortune.com/fortune500/amgen-130,www.amgen.com
+131,U.S. Bancorp,"$21,494",http://www.fortune.com/fortune500/us-bancorp-131,www.usbank.com
+132,Staples,"$21,059",http://www.fortune.com/fortune500/staples-132,www.staples.com
+133,Danaher,"$20,909",http://www.fortune.com/fortune500/danaher-133,www.danaher.com
+134,Whirlpool,"$20,891",http://www.fortune.com/fortune500/whirlpool-134,www.whirlpoolcorp.com
+135,Aflac,"$20,872",http://www.fortune.com/fortune500/aflac-135,www.aflac.com
+136,AutoNation,"$20,862",http://www.fortune.com/fortune500/autonation-136,www.autonation.com
+137,Progressive,"$20,854",http://www.fortune.com/fortune500/progressive-137,www.progressive.com
+138,Abbott Laboratories,"$20,661",http://www.fortune.com/fortune500/abbott-laboratories-138,www.abbott.com
+139,Dollar General,"$20,369",http://www.fortune.com/fortune500/dollar-general-139,www.dollargeneral.com
+140,Tenet Healthcare,"$20,111",http://www.fortune.com/fortune500/tenet-healthcare-140,www.tenethealth.com
+141,Eli Lilly,"$19,959",http://www.fortune.com/fortune500/eli-lilly-141,www.lilly.com
+142,Southwest Airlines,"$19,820",http://www.fortune.com/fortune500/southwest-airlines-142,www.southwest.com
+143,Penske Automotive Group,"$19,361",http://www.fortune.com/fortune500/penske-automotive-group-143,www.penskeautomotive.com
+144,ManpowerGroup,"$19,330",http://www.fortune.com/fortune500/manpowergroup-144,www.manpowergroup.com
+145,Kohl’s,"$19,204",http://www.fortune.com/fortune500/kohls-145,www.kohlscorporation.com
+146,Starbucks,"$19,163",http://www.fortune.com/fortune500/starbucks-146,www.starbucks.com
+147,Paccar,"$19,115",http://www.fortune.com/fortune500/paccar-147,www.paccar.com
+148,Cummins,"$19,110",http://www.fortune.com/fortune500/cummins-148,www.cummins.com
+149,Altria Group,"$18,854",http://www.fortune.com/fortune500/altria-group-149,www.altria.com
+150,Xerox,"$18,664",http://www.fortune.com/fortune500/xerox-150,www.xerox.com
+151,Kimberly-Clark,"$18,591",http://www.fortune.com/fortune500/kimberly-clark-151,www.kimberly-clark.com
+152,Hartford Financial Services Group,"$18,377",http://www.fortune.com/fortune500/hartford-financial-services-152,www.thehartford.com
+153,Kraft Heinz,"$18,338",http://www.fortune.com/fortune500/kraft-heinz-153,www.kraftheinzcompany.com
+154,Lear,"$18,211",http://www.fortune.com/fortune500/lear-154,www.lear.com
+155,Fluor,"$18,114",http://www.fortune.com/fortune500/fluor-155,www.fluor.com
+156,AECOM,"$17,990",http://www.fortune.com/fortune500/aecom-156,www.aecom.com
+157,Facebook,"$17,928",http://www.fortune.com/fortune500/facebook-157,www.facebook.com
+158,Jabil Circuit,"$17,914",http://www.fortune.com/fortune500/jabil-circuit-158,www.jabil.com
+159,CenturyLink,"$17,900",http://www.fortune.com/fortune500/centurylink-159,www.centurylink.com
+160,Supervalu,"$17,820",http://www.fortune.com/fortune500/supervalu-160,www.supervalu.com
+161,General Mills,"$17,630",http://www.fortune.com/fortune500/general-mills-161,www.generalmills.com
+162,Southern,"$17,489",http://www.fortune.com/fortune500/southern-162,www.southerncompany.com
+163,NextEra Energy,"$17,486",http://www.fortune.com/fortune500/nextera-energy-163,www.nexteraenergy.com
+164,Thermo Fisher Scientific,"$16,965",http://www.fortune.com/fortune500/thermo-fisher-scientific-164,www.thermofisher.com
+165,American Electric Power,"$16,900",http://www.fortune.com/fortune500/american-electric-power-165,www.aep.com
+166,PG&E Corp.,"$16,833",http://www.fortune.com/fortune500/pge-corp-166,www.pge.com
+167,NGL Energy Partners,"$16,802",http://www.fortune.com/fortune500/ngl-energy-partners-167,www.nglenergypartners.com
+168,Bristol-Myers Squibb,"$16,560",http://www.fortune.com/fortune500/bristol-myers-squibb-168,www.bms.com
+169,Goodyear Tire & Rubber,"$16,443",http://www.fortune.com/fortune500/goodyear-tire-rubber-169,www.goodyear.com
+170,Nucor,"$16,439",http://www.fortune.com/fortune500/nucor-170,www.nucor.com
+171,PNC Financial Services Group,"$16,270",http://www.fortune.com/fortune500/pnc-financial-services-171,www.pnc.com
+172,Health Net,"$16,244",http://www.fortune.com/fortune500/health-net-172,www.healthnet.com
+173,Micron Technology,"$16,192",http://www.fortune.com/fortune500/micron-technology-173,www.micron.com
+174,Colgate-Palmolive,"$16,034",http://www.fortune.com/fortune500/colgate-palmolive-174,www.colgatepalmolive.com
+175,Freeport-McMoRan,"$15,877",http://www.fortune.com/fortune500/freeport-mcmoran-175,www.fcx.com
+176,ConAgra Foods,"$15,849",http://www.fortune.com/fortune500/conagra-foods-176,www.conagrafoods.com
+177,Gap,"$15,797",http://www.fortune.com/fortune500/gap-177,www.gapinc.com
+178,Baker Hughes,"$15,742",http://www.fortune.com/fortune500/baker-hughes-178,www.bakerhughes.com
+179,Bank of New York Mellon Corp.,"$15,523",http://www.fortune.com/fortune500/bank-of-new-york-mellon-corp-179,www.bnymellon.com
+180,Dollar Tree,"$15,498",http://www.fortune.com/fortune500/dollar-tree-180,www.dollartree.com
+181,Whole Foods Market,"$15,389",http://www.fortune.com/fortune500/whole-foods-market-181,www.wholefoodsmarket.com
+182,PPG Industries,"$15,330",http://www.fortune.com/fortune500/ppg-industries-182,www.ppg.com
+183,Genuine Parts,"$15,280",http://www.fortune.com/fortune500/genuine-parts-183,www.genpt.com
+184,Icahn Enterprises,"$15,272",http://www.fortune.com/fortune500/icahn-enterprises-184,www.ielp.com
+185,Performance Food Group,"$15,270",http://www.fortune.com/fortune500/performance-food-group-185,www.pfgc.com
+186,Omnicom Group,"$15,134",http://www.fortune.com/fortune500/omnicom-group-186,www.omnicomgroup.com
+187,DISH Network,"$15,069",http://www.fortune.com/fortune500/dish-network-187,www.dish.com
+188,FirstEnergy,"$15,026",http://www.fortune.com/fortune500/firstenergy-188,www.firstenergycorp.com
+189,Monsanto,"$15,001",http://www.fortune.com/fortune500/monsanto-189,www.monsanto.com
+190,AES,"$14,963",http://www.fortune.com/fortune500/aes-190,www.aes.com
+191,CarMax,"$14,874",http://www.fortune.com/fortune500/carmax-191,www.carmax.com
+192,National Oilwell Varco,"$14,757",http://www.fortune.com/fortune500/national-oilwell-varco-192,www.nov.com
+193,NRG Energy,"$14,674",http://www.fortune.com/fortune500/nrg-energy-193,www.nrgenergy.com
+194,Western Digital,"$14,572",http://www.fortune.com/fortune500/western-digital-194,www.westerndigital.com
+195,Marriott International,"$14,486",http://www.fortune.com/fortune500/marriott-international-195,www.marriott.com
+196,Office Depot,"$14,485",http://www.fortune.com/fortune500/office-depot-196,www.officedepot.com
+197,Nordstrom,"$14,437",http://www.fortune.com/fortune500/nordstrom-197,www.nordstrom.com
+198,Kinder Morgan,"$14,403",http://www.fortune.com/fortune500/kinder-morgan-198,www.kindermorgan.com
+199,Aramark,"$14,329",http://www.fortune.com/fortune500/aramark-199,www.aramark.com
+200,DaVita HealthCare Partners,"$14,210",http://www.fortune.com/fortune500/davita-healthcare-partners-200,www.davita.com
+201,Molina Healthcare,"$14,178",http://www.fortune.com/fortune500/molina-healthcare-201,www.molinahealthcare.com
+202,WellCare Health Plans,"$13,890",http://www.fortune.com/fortune500/wellcare-health-plans-202,www.wellcare.com
+203,CBS,"$13,886",http://www.fortune.com/fortune500/cbs-203,www.cbscorporation.com
+204,Visa,"$13,880",http://www.fortune.com/fortune500/visa-204,www.visa.com
+205,Lincoln National,"$13,572",http://www.fortune.com/fortune500/lincoln-national-205,www.lfg.com
+206,Ecolab,"$13,545",http://www.fortune.com/fortune500/ecolab-206,www.ecolab.com
+207,Kellogg,"$13,525",http://www.fortune.com/fortune500/kellogg-207,www.kelloggcompany.com
+208,C.H. Robinson Worldwide,"$13,476",http://www.fortune.com/fortune500/ch-robinson-worldwide-208,www.chrobinson.com
+209,Textron,"$13,423",http://www.fortune.com/fortune500/textron-209,www.textron.com
+210,Loews,"$13,415",http://www.fortune.com/fortune500/loews-210,www.loews.com
+211,Illinois Tool Works,"$13,405",http://www.fortune.com/fortune500/illinois-tool-works-211,www.itw.com
+212,Synnex,"$13,338",http://www.fortune.com/fortune500/synnex-212,www.synnex.com
+213,Viacom,"$13,268",http://www.fortune.com/fortune500/viacom-213,www.viacom.com
+214,HollyFrontier,"$13,238",http://www.fortune.com/fortune500/hollyfrontier-214,www.hollyfrontier.com
+215,Land O’Lakes,"$13,161",http://www.fortune.com/fortune500/land-olakes-215,www.landolakesinc.com
+216,Devon Energy,"$13,145",http://www.fortune.com/fortune500/devon-energy-216,www.devonenergy.com
+217,PBF Energy,"$13,124",http://www.fortune.com/fortune500/pbf-energy-217,www.pbfenergy.com
+218,Yum Brands,"$13,105",http://www.fortune.com/fortune500/yum-brands-218,www.yum.com
+219,Texas Instruments,"$13,000",http://www.fortune.com/fortune500/texas-instruments-219,www.ti.com
+220,CDW,"$12,989",http://www.fortune.com/fortune500/cdw-220,www.cdw.com
+221,Waste Management,"$12,961",http://www.fortune.com/fortune500/waste-management-221,www.wm.com
+222,Marsh & McLennan,"$12,893",http://www.fortune.com/fortune500/marsh-mclennan-222,www.mmc.com
+223,Chesapeake Energy,"$12,764",http://www.fortune.com/fortune500/chesapeake-energy-223,www.chk.com
+224,Parker-Hannifin,"$12,712",http://www.fortune.com/fortune500/parker-hannifin-224,www.parker.com
+225,Occidental Petroleum,"$12,699",http://www.fortune.com/fortune500/occidental-petroleum-225,www.oxy.com
+226,Guardian Life Ins. Co. of America,"$12,628",http://www.fortune.com/fortune500/guardian-life-226,www.guardianlife.com
+227,Farmers Insurance Exchange,"$12,626",http://www.fortune.com/fortune500/farmers-insurance-exchange-227,www.farmers.com
+228,J.C. Penney,"$12,625",http://www.fortune.com/fortune500/jc-penney-228,www.jcpenney.com
+229,Consolidated Edison,"$12,554",http://www.fortune.com/fortune500/consolidated-edison-229,www.conedison.com
+230,Cognizant Technology Solutions,"$12,416",http://www.fortune.com/fortune500/cognizant-technology-solutions-230,www.cognizant.com
+231,VF,"$12,377",http://www.fortune.com/fortune500/vf-231,www.vfc.com
+232,Ameriprise Financial,"$12,200",http://www.fortune.com/fortune500/ameriprise-financial-232,www.ameriprise.com
+233,Computer Sciences,"$12,183",http://www.fortune.com/fortune500/computer-sciences-233,www.csc.com
+234,L Brands,"$12,154",http://www.fortune.com/fortune500/l-brands-234,www.lb.com
+235,Jacobs Engineering Group,"$12,115",http://www.fortune.com/fortune500/jacobs-engineering-group-235,www.jacobs.com
+236,Principal Financial,"$11,964",http://www.fortune.com/fortune500/principal-financial-236,www.principal.com
+237,Ross Stores,"$11,940",http://www.fortune.com/fortune500/ross-stores-237,www.rossstores.com
+238,Bed Bath & Beyond,"$11,881",http://www.fortune.com/fortune500/bed-bath-beyond-238,www.bedbathandbeyond.com
+239,CSX,"$11,811",http://www.fortune.com/fortune500/csx-239,www.csx.com
+240,Toys “R” Us,"$11,802",http://www.fortune.com/fortune500/toys-r-us-240,www.toysrusinc.com
+241,Las Vegas Sands,"$11,689",http://www.fortune.com/fortune500/las-vegas-sands-241,www.sands.com
+242,Leucadia National,"$11,684",http://www.fortune.com/fortune500/leucadia-national-242,www.leucadia.com
+243,Dominion Resources,"$11,683",http://www.fortune.com/fortune500/dominion-resources-243,www.dom.com
+244,United States Steel,"$11,574",http://www.fortune.com/fortune500/united-states-steel-244,www.ussteel.com
+245,L-3 Communications,"$11,554",http://www.fortune.com/fortune500/l-3-communications-245,www.l-3com.com
+246,Edison International,"$11,524",http://www.fortune.com/fortune500/edison-international-246,www.edisoninvestor.com
+247,Entergy,"$11,513",http://www.fortune.com/fortune500/entergy-247,www.entergy.com
+248,ADP,"$11,477",http://www.fortune.com/fortune500/adp-248,www.adp.com
+249,First Data,"$11,451",http://www.fortune.com/fortune500/first-data-249,www.firstdata.com
+250,BlackRock,"$11,401",http://www.fortune.com/fortune500/blackrock-250,www.blackrock.com
+251,WestRock,"$11,381",http://www.fortune.com/fortune500/westrock-251,www.westrock.com
+252,Voya Financial,"$11,341",http://www.fortune.com/fortune500/voya-financial-252,www.voya.com
+253,Sherwin-Williams,"$11,339",http://www.fortune.com/fortune500/sherwin-williams-253,www.sherwin.com
+254,Hilton Worldwide Holdings,"$11,272",http://www.fortune.com/fortune500/hilton-worldwide-holdings-254,www.hiltonworldwide.com
+255,R.R. Donnelley & Sons,"$11,257",http://www.fortune.com/fortune500/rr-donnelley-sons-255,www.rrdonnelley.com
+256,Stanley Black & Decker,"$11,211",http://www.fortune.com/fortune500/stanley-black-decker-256,www.stanleyblackanddecker.com
+257,Xcel Energy,"$11,025",http://www.fortune.com/fortune500/xcel-energy-257,www.xcelenergy.com
+258,Murphy USA,"$10,885",http://www.fortune.com/fortune500/murphy-usa-258,corporate.murphyusa.com
+259,CBRE Group,"$10,856",http://www.fortune.com/fortune500/cbre-group-259,www.cbre.com
+260,D.R. Horton,"$10,824",http://www.fortune.com/fortune500/dr-horton-260,www.drhorton.com
+261,Estee Lauder,"$10,780",http://www.fortune.com/fortune500/lauder-estee-261,www.elcompanies.com
+262,Praxair,"$10,776",http://www.fortune.com/fortune500/praxair-262,www.praxair.com
+263,Biogen,"$10,764",http://www.fortune.com/fortune500/biogen-263,www.biogen.com
+264,State Street Corp.,"$10,760",http://www.fortune.com/fortune500/state-street-corp-264,www.statestreet.com
+265,Unum Group,"$10,731",http://www.fortune.com/fortune500/unum-group-265,www.unum.com
+266,Reynolds American,"$10,675",http://www.fortune.com/fortune500/reynolds-american-266,www.reynoldsamerican.com
+267,Group 1 Automotive,"$10,633",http://www.fortune.com/fortune500/group-1-automotive-267,www.group1auto.com
+268,Henry Schein,"$10,630",http://www.fortune.com/fortune500/schein-henry-268,www.henryschein.com
+269,Hertz Global Holdings,"$10,535",http://www.fortune.com/fortune500/hertz-global-holdings-269,www.hertz.com
+270,Norfolk Southern,"$10,511",http://www.fortune.com/fortune500/norfolk-southern-270,www.nscorp.com
+271,Reinsurance Group of America,"$10,418",http://www.fortune.com/fortune500/reinsurance-group-of-america-271,www.rgare.com
+272,Public Service Enterprise Group,"$10,415",http://www.fortune.com/fortune500/public-service-enterprise-group-272,www.pseg.com
+273,BB&T Corp.,"$10,346",http://www.fortune.com/fortune500/bbt-corp-273,www.bbt.com
+274,DTE Energy,"$10,337",http://www.fortune.com/fortune500/dte-energy-274,www.dteenergy.com
+275,Assurant,"$10,326",http://www.fortune.com/fortune500/assurant-275,www.assurant.com
+276,Global Partners,"$10,315",http://www.fortune.com/fortune500/global-partners-276,www.globalp.com
+277,Huntsman,"$10,299",http://www.fortune.com/fortune500/huntsman-277,www.huntsman.com
+278,Becton Dickinson,"$10,282",http://www.fortune.com/fortune500/becton-dickinson-278,www.bd.com
+279,Sempra Energy,"$10,231",http://www.fortune.com/fortune500/sempra-energy-279,www.sempra.com
+280,AutoZone,"$10,187",http://www.fortune.com/fortune500/autozone-280,www.autozone.com
+281,Navistar International,"$10,140",http://www.fortune.com/fortune500/navistar-international-281,www.navistar.com
+282,Precision Castparts,"$10,056",http://www.fortune.com/fortune500/precision-castparts-282,www.precast.com
+283,Discover Financial Services,"$10,002",http://www.fortune.com/fortune500/discover-financial-services-283,www.discoverfinancial.com
+284,Liberty Interactive,"$9,989",http://www.fortune.com/fortune500/liberty-interactive-284,www.libertyinteractive.com
+285,W.W. Grainger,"$9,973",http://www.fortune.com/fortune500/ww-grainger-285,www.grainger.com
+286,Baxter International,"$9,968",http://www.fortune.com/fortune500/baxter-international-286,www.baxter.com
+287,Stryker,"$9,946",http://www.fortune.com/fortune500/stryker-287,www.stryker.com
+288,Air Products & Chemicals,"$9,895",http://www.fortune.com/fortune500/air-products-chemicals-288,www.airproducts.com
+289,Western Refining,"$9,787",http://www.fortune.com/fortune500/western-refining-289,www.wnr.com
+290,Universal Health Services,"$9,785",http://www.fortune.com/fortune500/universal-health-services-290,www.uhsinc.com
+291,Owens & Minor,"$9,773",http://www.fortune.com/fortune500/owens-minor-291,www.owens-minor.com
+292,Charter Communications,"$9,754",http://www.fortune.com/fortune500/charter-communications-292,www.charter.com
+293,Advance Auto Parts,"$9,737",http://www.fortune.com/fortune500/advance-auto-parts-293,www.advanceautoparts.com
+294,MasterCard,"$9,667",http://www.fortune.com/fortune500/mastercard-294,www.mastercard.com
+295,Applied Materials,"$9,659",http://www.fortune.com/fortune500/applied-materials-295,www.appliedmaterials.com
+296,Eastman Chemical,"$9,648",http://www.fortune.com/fortune500/eastman-chemical-296,www.eastman.com
+297,Sonic Automotive,"$9,624",http://www.fortune.com/fortune500/sonic-automotive-297,www.sonicautomotive.com
+298,Ally Financial,"$9,539",http://www.fortune.com/fortune500/ally-financial-298,www.ally.com
+299,CST Brands,"$9,499",http://www.fortune.com/fortune500/cst-brands-299,www.cstbrands.com
+300,eBay,"$9,496",http://www.fortune.com/fortune500/ebay-300,www.ebay.com
+301,Lennar,"$9,474",http://www.fortune.com/fortune500/lennar-301,www.lennar.com
+302,GameStop,"$9,364",http://www.fortune.com/fortune500/gamestop-302,www.gamestopcorp.com
+303,Reliance Steel & Aluminum,"$9,351",http://www.fortune.com/fortune500/reliance-steel-aluminum-303,www.rsac.com
+304,Hormel Foods,"$9,264",http://www.fortune.com/fortune500/hormel-foods-304,www.hormelfoods.com
+305,Celgene,"$9,256",http://www.fortune.com/fortune500/celgene-305,www.celgene.com
+306,Genworth Financial,"$9,249",http://www.fortune.com/fortune500/genworth-financial-306,www.genworth.com
+307,PayPal Holdings,"$9,248",http://www.fortune.com/fortune500/paypal-holdings-307,www.paypal.com
+308,Priceline Group,"$9,224",http://www.fortune.com/fortune500/priceline-group-308,www.pricelinegroup.com
+309,MGM Resorts International,"$9,190",http://www.fortune.com/fortune500/mgm-resorts-international-309,www.mgmresorts.com
+310,Autoliv,"$9,170",http://www.fortune.com/fortune500/autoliv-310,www.autoliv.com
+311,Fidelity National Financial,"$9,132",http://www.fortune.com/fortune500/fidelity-national-financial-311,www.fnf.com
+312,Republic Services,"$9,115",http://www.fortune.com/fortune500/republic-services-312,www.republicservices.com
+313,Corning,"$9,111",http://www.fortune.com/fortune500/corning-313,www.corning.com
+314,Peter Kiewit Sons’,"$8,992",http://www.fortune.com/fortune500/kiewit-peter-sons-314,www.kiewit.com
+315,Univar,"$8,982",http://www.fortune.com/fortune500/univar-315,www.univar.com
+316,Mosaic,"$8,895",http://www.fortune.com/fortune500/mosaic-316,www.mosaicco.com
+317,Core-Mark Holding,"$8,858",http://www.fortune.com/fortune500/core-mark-holding-317,www.core-mark.com
+318,Thrivent Financial for Lutherans,"$8,789",http://www.fortune.com/fortune500/thrivent-financial-318,www.thrivent.com
+319,Cameron International,"$8,782",http://www.fortune.com/fortune500/cameron-international-319,www.c-a-m.com
+320,HD Supply Holdings,"$8,779",http://www.fortune.com/fortune500/hd-supply-holdings-320,www.hdsupply.com
+321,Crown Holdings,"$8,762",http://www.fortune.com/fortune500/crown-holdings-321,www.crowncork.com
+322,EOG Resources,"$8,757",http://www.fortune.com/fortune500/eog-resources-322,www.eogresources.com
+323,Veritiv,"$8,718",http://www.fortune.com/fortune500/veritiv-323,www.veritivcorp.com
+324,Anadarko Petroleum,"$8,698",http://www.fortune.com/fortune500/anadarko-petroleum-324,www.anadarko.com
+325,Laboratory Corp. of America,"$8,680",http://www.fortune.com/fortune500/laboratory-corp-of-america-325,www.labcorp.com
+326,Pacific Life,"$8,642",http://www.fortune.com/fortune500/pacific-life-326,www.pacificlife.com
+327,News Corp.,"$8,633",http://www.fortune.com/fortune500/news-corp-327,www.newscorp.com
+328,Jarden,"$8,604",http://www.fortune.com/fortune500/jarden-328,www.jarden.com
+329,SunTrust Banks,"$8,533",http://www.fortune.com/fortune500/suntrust-banks-329,www.suntrust.com
+330,Avis Budget Group,"$8,502",http://www.fortune.com/fortune500/avis-budget-group-330,www.avisbudgetgroup.com
+331,Broadcom,"$8,394",http://www.fortune.com/fortune500/broadcom-331,www.broadcom.com
+332,American Family Insurance Group,"$8,286",http://www.fortune.com/fortune500/american-family-ins-group-332,www.amfam.com
+333,Level 3 Communications,"$8,229",http://www.fortune.com/fortune500/level-3-communications-333,www.level3.com
+334,Tenneco,"$8,209",http://www.fortune.com/fortune500/tenneco-334,www.tenneco.com
+335,United Natural Foods,"$8,185",http://www.fortune.com/fortune500/united-natural-foods-335,www.unfi.com
+336,Dean Foods,"$8,122",http://www.fortune.com/fortune500/dean-foods-336,www.deanfoods.com
+337,Campbell Soup,"$8,082",http://www.fortune.com/fortune500/campbell-soup-337,www.campbellsoupcompany.com
+338,Mohawk Industries,"$8,072",http://www.fortune.com/fortune500/mohawk-industries-338,www.mohawkind.com
+339,BorgWarner,"$8,023",http://www.fortune.com/fortune500/borgwarner-339,www.borgwarner.com
+340,PVH,"$8,020",http://www.fortune.com/fortune500/pvh-340,www.pvh.com
+341,Ball,"$7,997",http://www.fortune.com/fortune500/ball-341,www.ball.com
+342,O’Reilly Automotive,"$7,967",http://www.fortune.com/fortune500/oreilly-automotive-342,www.oreillyauto.com
+343,Eversource Energy,"$7,955",http://www.fortune.com/fortune500/eversource-energy-343,www.eversource.com
+344,Franklin Resources,"$7,949",http://www.fortune.com/fortune500/franklin-resources-344,www.franklinresources.com
+345,Masco,"$7,904",http://www.fortune.com/fortune500/masco-345,www.masco.com
+346,Lithia Motors,"$7,864",http://www.fortune.com/fortune500/lithia-motors-346,www.lithia.com
+347,KKR,"$7,786",http://www.fortune.com/fortune500/kkr-347,www.kkr.com
+348,Oneok,"$7,763",http://www.fortune.com/fortune500/oneok-348,www.oneok.com
+349,Newmont Mining,"$7,729",http://www.fortune.com/fortune500/newmont-mining-349,www.newmont.com
+350,PPL,"$7,669",http://www.fortune.com/fortune500/ppl-350,www.pplweb.com
+351,SpartanNash,"$7,652",http://www.fortune.com/fortune500/spartannash-351,www.spartannash.com
+352,Quanta Services,"$7,632",http://www.fortune.com/fortune500/quanta-services-352,www.quantaservices.com
+353,XPO Logistics,"$7,623",http://www.fortune.com/fortune500/xpo-logistics-353,www.xpo.com
+354,Ralph Lauren,"$7,620",http://www.fortune.com/fortune500/lauren-ralph-354,www.ralphlauren.com
+355,Interpublic Group,"$7,614",http://www.fortune.com/fortune500/interpublic-group-355,www.interpublic.com
+356,Steel Dynamics,"$7,594",http://www.fortune.com/fortune500/steel-dynamics-356,www.steeldynamics.com
+357,WESCO International,"$7,519",http://www.fortune.com/fortune500/wesco-international-357,www.wesco.com
+358,Quest Diagnostics,"$7,493",http://www.fortune.com/fortune500/quest-diagnostics-358,www.questdiagnostics.com
+359,Boston Scientific,"$7,477",http://www.fortune.com/fortune500/boston-scientific-359,www.bostonscientific.com
+360,AGCO,"$7,467",http://www.fortune.com/fortune500/agco-360,www.agcocorp.com
+361,Foot Locker,"$7,412",http://www.fortune.com/fortune500/foot-locker-361,www.footlocker-inc.com
+362,Hershey,"$7,387",http://www.fortune.com/fortune500/hershey-362,www.thehersheycompany.com
+363,CenterPoint Energy,"$7,386",http://www.fortune.com/fortune500/centerpoint-energy-363,www.centerpointenergy.com
+364,Williams,"$7,360",http://www.fortune.com/fortune500/williams-364,www.williams.com
+365,Dick’s Sporting Goods,"$7,271",http://www.fortune.com/fortune500/dicks-sporting-goods-365,www.dickssportinggoods.com
+366,Live Nation Entertainment,"$7,246",http://www.fortune.com/fortune500/live-nation-entertainment-366,www.livenation.com
+367,Mutual of Omaha Insurance,"$7,236",http://www.fortune.com/fortune500/mutual-of-omaha-367,www.mutualofomaha.com
+368,W.R. Berkley,"$7,207",http://www.fortune.com/fortune500/wr-berkley-368,www.wrberkley.com
+369,LKQ,"$7,193",http://www.fortune.com/fortune500/lkq-369,www.lkqcorp.com
+370,Avon Products,"$7,173",http://www.fortune.com/fortune500/avon-products-370,www.avoncompany.com
+371,Darden Restaurants,"$7,164",http://www.fortune.com/fortune500/darden-restaurants-371,www.darden.com
+372,Kindred Healthcare,"$7,098",http://www.fortune.com/fortune500/kindred-healthcare-372,www.kindredhealthcare.com
+373,Weyerhaeuser,"$7,082",http://www.fortune.com/fortune500/weyerhaeuser-373,www.weyerhaeuser.com
+374,Casey’s General Stores,"$7,052",http://www.fortune.com/fortune500/caseys-general-stores-374,www.caseys.com
+375,Sealed Air,"$7,032",http://www.fortune.com/fortune500/sealed-air-375,www.sealedair.com
+376,Fifth Third Bancorp,"$7,031",http://www.fortune.com/fortune500/fifth-third-bancorp-376,www.53.com
+377,Dover,"$7,029",http://www.fortune.com/fortune500/dover-377,www.dovercorporation.com
+378,Huntington Ingalls Industries,"$7,020",http://www.fortune.com/fortune500/huntington-ingalls-industries-378,www.huntingtoningalls.com
+379,Netflix,"$6,780",http://www.fortune.com/fortune500/netflix-379,www.netflix.com
+380,Dillard’s,"$6,755",http://www.fortune.com/fortune500/dillards-380,www.dillards.com
+381,EMCOR Group,"$6,723",http://www.fortune.com/fortune500/emcor-group-381,www.emcorgroup.com
+382,Jones Financial,"$6,694",http://www.fortune.com/fortune500/jones-financial-382,www.edwardjones.com
+383,AK Steel Holding,"$6,693",http://www.fortune.com/fortune500/ak-steel-holding-383,www.aksteel.com
+384,UGI,"$6,691",http://www.fortune.com/fortune500/ugi-384,www.ugicorp.com
+385,Expedia,"$6,672",http://www.fortune.com/fortune500/expedia-385,www.expediainc.com
+386,salesforce.com,"$6,667",http://www.fortune.com/fortune500/salesforce-com-386,www.salesforce.com
+387,Targa Resources,"$6,659",http://www.fortune.com/fortune500/targa-resources-387,www.targaresources.com
+388,Apache,"$6,654",http://www.fortune.com/fortune500/apache-388,www.apachecorp.com
+389,Spirit AeroSystems Holdings,"$6,644",http://www.fortune.com/fortune500/spirit-aerosystems-holdings-389,www.spiritaero.com
+390,Expeditors International of Washington,"$6,617",http://www.fortune.com/fortune500/expeditors-intl-of-washington-390,www.expeditors.com
+391,Anixter International,"$6,596",http://www.fortune.com/fortune500/anixter-international-391,www.anixter.com
+392,Fidelity National Information Services,"$6,595",http://www.fortune.com/fortune500/fidelity-national-info-services-392,www.fisglobal.com
+393,Asbury Automotive Group,"$6,588",http://www.fortune.com/fortune500/asbury-automotive-group-393,www.asburyauto.com
+394,Hess,"$6,575",http://www.fortune.com/fortune500/hess-394,www.hess.com
+395,Ryder System,"$6,572",http://www.fortune.com/fortune500/ryder-system-395,www.ryder.com
+396,Terex,"$6,543",http://www.fortune.com/fortune500/terex-396,www.terex.com
+397,Coca-Cola European Partners,"$6,540",http://www.fortune.com/fortune500/coca-cola-enterprises-397,www.cokecce.com
+398,Auto-Owners Insurance,"$6,517",http://www.fortune.com/fortune500/auto-owners-insurance-398,www.auto-owners.com
+399,Cablevision Systems,"$6,510",http://www.fortune.com/fortune500/cablevision-systems-399,www.cablevision.com
+400,Symantec,"$6,508",http://www.fortune.com/fortune500/symantec-400,www.symantec.com
+401,Charles Schwab,"$6,501",http://www.fortune.com/fortune500/schwab-charles-401,www.aboutschwab.com
+402,Calpine,"$6,472",http://www.fortune.com/fortune500/calpine-402,www.calpine.com
+403,CMS Energy,"$6,456",http://www.fortune.com/fortune500/cms-energy-403,www.cmsenergy.com
+404,Alliance Data Systems,"$6,440",http://www.fortune.com/fortune500/alliance-data-systems-404,www.alliancedata.com
+405,JetBlue Airways,"$6,416",http://www.fortune.com/fortune500/jetblue-airways-405,www.jetblue.com
+406,Discovery Communications,"$6,394",http://www.fortune.com/fortune500/discovery-communications-406,www.discoverycommunications.com
+407,Trinity Industries,"$6,393",http://www.fortune.com/fortune500/trinity-industries-407,www.trin.net
+408,Sanmina,"$6,375",http://www.fortune.com/fortune500/sanmina-408,www.sanmina.com
+409,NCR,"$6,373",http://www.fortune.com/fortune500/ncr-409,www.ncr.com
+410,FMC Technologies,"$6,363",http://www.fortune.com/fortune500/fmc-technologies-410,www.fmctechnologies.com
+411,Erie Insurance Group,"$6,351",http://www.fortune.com/fortune500/erie-insurance-group-411,www.erieinsurance.com
+412,Rockwell Automation,"$6,308",http://www.fortune.com/fortune500/rockwell-automation-412,www.rockwellautomation.com
+413,Dr Pepper Snapple Group,"$6,282",http://www.fortune.com/fortune500/dr-pepper-snapple-group-413,www.drpeppersnapplegroup.com
+414,iHeartMedia,"$6,242",http://www.fortune.com/fortune500/iheartmedia-414,www.iheartmedia.com
+415,Tractor Supply,"$6,227",http://www.fortune.com/fortune500/tractor-supply-415,www.tractorsupply.com
+416,J.B. Hunt Transport Services,"$6,188",http://www.fortune.com/fortune500/jb-hunt-transport-services-416,www.jbhunt.com
+417,Commercial Metals,"$6,162",http://www.fortune.com/fortune500/commercial-metals-417,www.cmc.com
+418,Owens-Illinois,"$6,156",http://www.fortune.com/fortune500/owens-illinois-418,www.o-i.com
+419,Harman International Industries,"$6,155",http://www.fortune.com/fortune500/harman-intl-industries-419,www.harman.com
+420,Baxalta,"$6,149",http://www.fortune.com/fortune500/baxalta-420,www.baxalta.com
+421,American Financial Group,"$6,145",http://www.fortune.com/fortune500/american-financial-group-421,www.afginc.com
+422,NetApp,"$6,123",http://www.fortune.com/fortune500/netapp-422,www.netapp.com
+423,Graybar Electric,"$6,110",http://www.fortune.com/fortune500/graybar-electric-423,www.graybar.com
+424,Oshkosh,"$6,098",http://www.fortune.com/fortune500/oshkosh-424,www.oshkoshcorporation.com
+425,Ameren,"$6,098",http://www.fortune.com/fortune500/ameren-425,www.ameren.com
+426,A-Mark Precious Metals,"$6,070",http://www.fortune.com/fortune500/a-mark-precious-metals-426,www.amark.com
+427,Barnes & Noble,"$6,070",http://www.fortune.com/fortune500/barnes-noble-427,www.barnesandnobleinc.com
+428,Dana Holding,"$6,060",http://www.fortune.com/fortune500/dana-holding-428,www.dana.com
+429,Constellation Brands,"$6,028",http://www.fortune.com/fortune500/constellation-brands-429,www.cbrands.com
+430,LifePoint Health,"$6,014",http://www.fortune.com/fortune500/lifepoint-health-430,www.lifepointhealth.net
+431,Zimmer Biomet Holdings,"$5,998",http://www.fortune.com/fortune500/zimmer-biomet-holdings-431,www.zimmerbiomet.com
+432,Harley-Davidson,"$5,995",http://www.fortune.com/fortune500/harley-davidson-432,www.harley-davidson.com
+433,PulteGroup,"$5,982",http://www.fortune.com/fortune500/pultegroup-433,www.pultegroupinc.com
+434,Newell Brands,"$5,972",http://www.fortune.com/fortune500/newell-brands-434,www.newellbrands.com
+435,Avery Dennison,"$5,967",http://www.fortune.com/fortune500/avery-dennison-435,www.averydennison.com
+436,Jones Lang LaSalle,"$5,966",http://www.fortune.com/fortune500/jones-lang-lasalle-436,www.jll.com
+437,WEC Energy Group,"$5,926",http://www.fortune.com/fortune500/wec-energy-group-437,www.wecenergygroup.com
+438,Marathon Oil,"$5,861",http://www.fortune.com/fortune500/marathon-oil-438,www.marathonoil.com
+439,TravelCenters of America,"$5,851",http://www.fortune.com/fortune500/travelcenters-of-america-439,www.ta-petrol.com
+440,United Rentals,"$5,817",http://www.fortune.com/fortune500/united-rentals-440,www.unitedrentals.com
+441,HRG Group,"$5,816",http://www.fortune.com/fortune500/hrg-group-441,www.hrggroup.com
+442,Old Republic International,"$5,766",http://www.fortune.com/fortune500/old-republic-international-442,www.oldrepublic.com
+443,Windstream Holdings,"$5,765",http://www.fortune.com/fortune500/windstream-holdings-443,www.windstream.com
+444,Starwood Hotels & Resorts,"$5,763",http://www.fortune.com/fortune500/starwood-hotels-resorts-444,www.starwoodhotels.com
+445,Delek US Holdings,"$5,762",http://www.fortune.com/fortune500/delek-us-holdings-445,www.delekus.com
+446,Packaging Corp. of America,"$5,742",http://www.fortune.com/fortune500/packaging-corp-of-america-446,www.packagingcorp.com
+447,Quintiles Transnational Holdings,"$5,738",http://www.fortune.com/fortune500/quintiles-transnational-447,www.quintiles.com
+448,Hanesbrands,"$5,732",http://www.fortune.com/fortune500/hanesbrands-448,www.hanes.com
+449,Realogy Holdings,"$5,706",http://www.fortune.com/fortune500/realogy-holdings-449,www.realogy.com
+450,Mattel,"$5,703",http://www.fortune.com/fortune500/mattel-450,www.mattel.com
+451,Motorola Solutions,"$5,695",http://www.fortune.com/fortune500/motorola-solutions-451,www.motorolasolutions.com
+452,J.M. Smucker,"$5,693",http://www.fortune.com/fortune500/jm-smucker-452,www.jmsmucker.com
+453,Regions Financial,"$5,674",http://www.fortune.com/fortune500/regions-financial-453,www.regions.com
+453,Celanese,"$5,674",http://www.fortune.com/fortune500/celanese-453,www.celanese.com
+455,Clorox,"$5,666",http://www.fortune.com/fortune500/clorox-455,www.thecloroxcompany.com
+456,Ingredion,"$5,621",http://www.fortune.com/fortune500/ingredion-456,www.ingredion.com
+457,Genesis Healthcare,"$5,619",http://www.fortune.com/fortune500/genesis-healthcare-457,www.genesishcc.com
+458,Peabody Energy,"$5,609",http://www.fortune.com/fortune500/peabody-energy-458,www.peabodyenergy.com
+459,Alaska Air Group,"$5,598",http://www.fortune.com/fortune500/alaska-air-group-459,www.alaskaair.com
+460,Seaboard,"$5,594",http://www.fortune.com/fortune500/seaboard-460,www.seaboardcorp.com
+461,Frontier Communications,"$5,576",http://www.fortune.com/fortune500/frontier-communications-461,www.frontier.com
+462,Amphenol,"$5,569",http://www.fortune.com/fortune500/amphenol-462,www.amphenol.com
+463,Lansing Trade Group,"$5,565",http://www.fortune.com/fortune500/lansing-trade-group-463,www.lansingtradegroup.com
+464,SanDisk,"$5,565",http://www.fortune.com/fortune500/sandisk-464,www.sandisk.com
+465,St. Jude Medical,"$5,541",http://www.fortune.com/fortune500/st-jude-medical-465,www.sjm.com
+466,Wyndham Worldwide,"$5,536",http://www.fortune.com/fortune500/wyndham-worldwide-466,www.wyndhamworldwide.com
+467,Kelly Services,"$5,518",http://www.fortune.com/fortune500/kelly-services-467,www.kellyservices.com
+468,Western Union,"$5,484",http://www.fortune.com/fortune500/western-union-468,www.westernunion.com
+469,Envision Healthcare Holdings,"$5,448",http://www.fortune.com/fortune500/envision-healthcare-holdings-469,www.evhc.net
+470,Visteon,"$5,444",http://www.fortune.com/fortune500/visteon-470,www.visteon.com
+471,Arthur J. Gallagher,"$5,392",http://www.fortune.com/fortune500/arthur-j-gallagher-471,www.ajg.com
+472,Host Hotels & Resorts,"$5,387",http://www.fortune.com/fortune500/host-hotels-resorts-472,www.hosthotels.com
+472,Ashland,"$5,387",http://www.fortune.com/fortune500/ashland-472,www.ashland.com
+474,Insight Enterprises,"$5,373",http://www.fortune.com/fortune500/insight-enterprises-474,www.insight.com
+475,Energy Future Holdings,"$5,370",http://www.fortune.com/fortune500/energy-future-holdings-475,www.energyfutureholdings.com
+476,Markel,"$5,370",http://www.fortune.com/fortune500/markel-476,www.markelcorp.com
+477,Essendant,"$5,363",http://www.fortune.com/fortune500/essendant-477,www.essendant.com
+478,CH2M Hill,"$5,362",http://www.fortune.com/fortune500/ch2m-hill-478,www.ch2m.com
+479,Western & Southern Financial Group,"$5,356",http://www.fortune.com/fortune500/western-southern-financial-479,www.westernsouthern.com
+480,Owens Corning,"$5,350",http://www.fortune.com/fortune500/owens-corning-480,www.owenscorning.com
+481,S&P Global,"$5,313",http://www.fortune.com/fortune500/sp-global-481,www.spglobal.com
+482,Raymond James Financial,"$5,308",http://www.fortune.com/fortune500/raymond-james-financial-482,www.raymondjames.com
+483,NiSource,"$5,308",http://www.fortune.com/fortune500/nisource-483,www.nisource.com
+484,Airgas,"$5,305",http://www.fortune.com/fortune500/airgas-484,www.airgas.com
+485,ABM Industries,"$5,291",http://www.fortune.com/fortune500/abm-industries-485,www.abm.com
+486,Citizens Financial Group,"$5,276",http://www.fortune.com/fortune500/citizens-financial-group-486,www.citizensbank.com
+487,Booz Allen Hamilton Holding,"$5,275",http://www.fortune.com/fortune500/booz-allen-hamilton-487,www.boozallen.com
+488,Simon Property Group,"$5,266",http://www.fortune.com/fortune500/simon-property-group-488,www.simon.com
+489,Domtar,"$5,264",http://www.fortune.com/fortune500/domtar-489,www.domtar.com
+490,Rockwell Collins,"$5,262",http://www.fortune.com/fortune500/rockwell-collins-490,www.rockwellcollins.com
+491,Lam Research,"$5,259",http://www.fortune.com/fortune500/lam-research-491,www.lamresearch.com
+492,Fiserv,"$5,254",http://www.fortune.com/fortune500/fiserv-492,www.fiserv.com
+493,Spectra Energy,"$5,234",http://www.fortune.com/fortune500/spectra-energy-493,www.spectraenergy.com
+494,Navient,"$5,197",http://www.fortune.com/fortune500/navient-494,www.navient.com
+495,Big Lots,"$5,191",http://www.fortune.com/fortune500/big-lots-495,www.biglots.com
+496,Telephone & Data Systems,"$5,176",http://www.fortune.com/fortune500/telephone-data-systems-496,www.tdsinc.com
+497,First American Financial,"$5,176",http://www.fortune.com/fortune500/first-american-financial-497,www.firstam.com
+498,NVR,"$5,170",http://www.fortune.com/fortune500/nvr-498,www.nvrinc.com
+499,Cincinnati Financial,"$5,142",http://www.fortune.com/fortune500/cincinnati-financial-499,www.cinfin.com
+500,Burlington Stores,"$5,130",http://www.fortune.com/fortune500/burlington-stores-500,www.burlingtonstores.com

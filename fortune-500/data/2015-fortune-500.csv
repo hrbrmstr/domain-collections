@@ -1,0 +1,501 @@
+Rank,Company,Fortune.com link about company,Website
+1,Walmart,http://fortune.com/fortune500/walmart-1/,www.walmart.com
+2,Exxon Mobil,http://fortune.com/fortune500/exxon-mobil-2/,www.exxonmobil.com
+3,Chevron,http://fortune.com/fortune500/chevron-3/,www.chevron.com
+4,Berkshire Hathaway,http://fortune.com/fortune500/berkshire-hathaway-4/,www.berkshirehathaway.com
+5,Apple,http://fortune.com/fortune500/apple-5/,www.apple.com
+6,General Motors,http://fortune.com/fortune500/general-motors-6/,www.gm.com
+7,Phillips 66,http://fortune.com/fortune500/phillips-66-7/,www.phillips66.com
+8,General Electric,http://fortune.com/fortune500/general-electric-8/,www.ge.com
+9,Ford Motor,http://fortune.com/fortune500/ford-motor-9/,www.ford.com
+10,CVS Health,http://fortune.com/fortune500/cvs-health-10/,www.cvshealth.com
+11,McKesson,http://fortune.com/fortune500/mckesson-11/,www.mckesson.com
+12,AT&T,http://fortune.com/fortune500/att-12/,www.att.com
+13,Valero Energy,http://fortune.com/fortune500/valero-energy-13/,www.valero.com
+14,UnitedHealth Group,http://fortune.com/fortune500/unitedhealth-group-14/,www.unitedhealthgroup.com
+15,Verizon,http://fortune.com/fortune500/verizon-15/,www.verizon.com
+16,AmerisourceBergen,http://fortune.com/fortune500/amerisourcebergen-16/,www.amerisourcebergen.com
+17,Fannie Mae,http://fortune.com/fortune500/fannie-mae-17/,www.fanniemae.com
+18,Costco,http://fortune.com/fortune500/costco-18/,www.costco.com
+19,HP,http://fortune.com/fortune500/hp-19/,www.hp.com
+20,Kroger,http://fortune.com/fortune500/kroger-20/,www.thekrogerco.com
+21,JP Morgan Chase,http://fortune.com/fortune500/jp-morgan-chase-21/,www.jpmorganchase.com
+22,Express Scripts Holding,http://fortune.com/fortune500/express-scripts-holding-22/,www.express-scripts.com
+23,Bank of America Corp.,http://fortune.com/fortune500/bank-of-america-corp-23/,www.bankofamerica.com
+24,IBM,http://fortune.com/fortune500/ibm-24/,www.ibm.com
+25,Marathon Petroleum,http://fortune.com/fortune500/marathon-petroleum-25/,www.marathonpetroleum.com
+26,Cardinal Health,http://fortune.com/fortune500/cardinal-health-26/,www.cardinal.com
+27,Boeing,http://fortune.com/fortune500/boeing-27/,www.boeing.com
+28,Citigroup,http://fortune.com/fortune500/citigroup-28/,www.citigroup.com
+29,Amazon.com,http://fortune.com/fortune500/amazon-com-29/,www.amazon.com
+30,Wells Fargo,http://fortune.com/fortune500/wells-fargo-30/,www.wellsfargo.com
+31,Microsoft,http://fortune.com/fortune500/microsoft-31/,www.microsoft.com
+32,Procter & Gamble,http://fortune.com/fortune500/procter-gamble-32/,www.pg.com
+33,Home Depot,http://fortune.com/fortune500/home-depot-33/,www.homedepot.com
+34,Archer Daniels Midland,http://fortune.com/fortune500/archer-daniels-midland-34/,www.adm.com
+35,Walgreens,http://fortune.com/fortune500/walgreens-35/,www.walgreensbootsalliance.com
+36,Target,http://fortune.com/fortune500/target-36/,www.target.com
+37,Johnson & Johnson,http://fortune.com/fortune500/johnson-johnson-37/,www.jnj.com
+38,Anthem,http://fortune.com/fortune500/anthem-38/,www.antheminc.com
+39,MetLife,http://fortune.com/fortune500/metlife-39/,www.metlife.com
+40,Alphabet,http://fortune.com/fortune500/google-40/,www.google.com
+41,State Farm Insurance Cos.,http://fortune.com/fortune500/state-farm-insurance-cos-41/,www.statefarm.com
+42,Freddie Mac,http://fortune.com/fortune500/freddie-mac-42/,www.freddiemac.com
+43,Comcast,http://fortune.com/fortune500/comcast-43/,www.comcastcorporation.com
+44,PepsiCo,http://fortune.com/fortune500/pepsi-44/,www.pepsico.com
+45,United Technologies,http://fortune.com/fortune500/united-technologies-45/,www.utc.com
+46,AIG,http://fortune.com/fortune500/aig-46/,www.aig.com
+47,UPS,http://fortune.com/fortune500/ups-47/,www.ups.com
+48,Dow Chemical,http://fortune.com/fortune500/dow-chemical-48/,www.dow.com
+49,Aetna,http://fortune.com/fortune500/aetna-49/,www.aetna.com
+50,Lowe's,http://fortune.com/fortune500/lowes-50/,www.lowes.com
+51,ConocoPhillips,http://fortune.com/fortune500/conocophillips-51/,www.conocophillips.com
+52,Intel,http://fortune.com/fortune500/intel-52/,www.intel.com
+53,Energy Transfer Equity,http://fortune.com/fortune500/energy-transfer-equity-53/,www.energytransfer.com
+54,Caterpillar,http://fortune.com/fortune500/caterpillar-54/,www.caterpillar.com
+55,Prudential Financial,http://fortune.com/fortune500/prudential-financial-55/,www.prudential.com
+56,Pfizer,http://fortune.com/fortune500/pfizer-56/,www.pfizer.com
+57,Walt Disney,http://fortune.com/fortune500/disney-57/,www.disney.com
+58,Humana,http://fortune.com/fortune500/humana-58/,www.humana.com
+59,Enterprise Products Partners,http://fortune.com/fortune500/enterprise-products-partners-59/,www.enterpriseproducts.com
+60,Cisco Systems,http://fortune.com/fortune500/cisco-systems-60/,www.cisco.com
+61,Sysco,http://fortune.com/fortune500/sysco-61/,www.sysco.com
+62,Ingram Micro,http://fortune.com/fortune500/ingram-micro-62/,www.ingrammicro.com
+63,Coca-Cola,http://fortune.com/fortune500/coca-cola-63/,www.coca-colacompany.com
+64,Lockheed Martin,http://fortune.com/fortune500/lockheed-martin-64/,www.lockheedmartin.com
+65,FedEx,http://fortune.com/fortune500/fedex-65/,www.fedex.com
+66,Johnson Controls,http://fortune.com/fortune500/johnson-controls-66/,www.johnsoncontrols.com
+67,Plains GP Holdings,http://fortune.com/fortune500/plains-gp-holdings-67/,www.plainsallamerican.com
+68,World Fuel Services,http://fortune.com/fortune500/world-fuel-services-68/,www.wfscorp.com
+69,CHS,http://fortune.com/fortune500/chs-69/,www.chsinc.com
+70,American Airlines Group,http://fortune.com/fortune500/american-airlines-group-70/,www.aa.com
+71,Merck,http://fortune.com/fortune500/merck-71/,www.merck.com
+72,Best Buy,http://fortune.com/fortune500/best-buy-72/,www.bestbuy.com
+73,Delta Air Lines,http://fortune.com/fortune500/delta-air-lines-73/,www.delta.com
+74,Honeywell International,http://fortune.com/fortune500/honeywell-international-74/,www.honeywell.com
+75,HCA Holdings,http://fortune.com/fortune500/hca-holdings-75/,www.hcahealthcare.com
+76,Goldman Sachs Group,http://fortune.com/fortune500/goldman-sachs-group-76/,www.gs.com
+77,Tesoro,http://fortune.com/fortune500/tesoro-77/,www.tsocorp.com
+78,Liberty Mutual Insurance Group,http://fortune.com/fortune500/liberty-mutual-insurance-group-78/,www.libertymutual.com
+79,United Continental Holdings,http://fortune.com/fortune500/united-continental-holdings-79/,www.unitedcontinentalholdings.com
+80,New York Life Insurance,http://fortune.com/fortune500/new-york-life-insurance-80/,www.newyorklife.com
+81,Oracle,http://fortune.com/fortune500/oracle-81/,www.oracle.com
+82,Morgan Stanley,http://fortune.com/fortune500/morgan-stanley-82/,www.morganstanley.com
+83,Tyson Foods,http://fortune.com/fortune500/tyson-foods-83/,www.tysonfoods.com
+84,Safeway,http://fortune.com/fortune500/safeway-84/,www.safeway.com
+85,Nationwide,http://fortune.com/fortune500/nationwide-85/,www.nationwide.com
+86,Deere,http://fortune.com/fortune500/deere-86/,www.johndeere.com
+87,DuPont,http://fortune.com/fortune500/dupont-87/,www.dupont.com
+88,American Express,http://fortune.com/fortune500/american-express-88/,www.americanexpress.com
+89,Allstate,http://fortune.com/fortune500/allstate-89/,www.allstate.com
+90,Cigna,http://fortune.com/fortune500/cigna-90/,www.cigna.com
+91,Mondelez International,http://fortune.com/fortune500/mondelez-international-91/,www.mondelezinternational.com
+92,TIAA-CREF,http://fortune.com/fortune500/tiaa-cref-92/,www.tiaa-cref.org
+93,INTL FCStone,http://fortune.com/fortune500/intl-fcstone-93/,www.intlfcstone.com
+94,Massachusetts Mutual Life Insurance,http://fortune.com/fortune500/massachusetts-mutual-life-insurance-94/,www.massmutual.com
+95,DirecTV,http://fortune.com/fortune500/directv-95/,www.directv.com
+96,Halliburton,http://fortune.com/fortune500/halliburton-96/,www.halliburton.com
+97,Twenty-First Century Fox,http://fortune.com/fortune500/twenty-first-century-fox-97/,www.21cf.com
+98,3M,http://fortune.com/fortune500/3m-98/,www.3m.com
+99,Sears Holdings,http://fortune.com/fortune500/sears-holdings-99/,www.searsholdings.com
+100,General Dynamics,http://fortune.com/fortune500/general-dynamics-100/,www.generaldynamics.com
+101,Publix Super Markets,http://fortune.com/fortune500/publix-super-markets-101/,www.publix.com
+102,Philip Morris International,http://fortune.com/fortune500/philip-morris-international-102/,www.pmi.com
+103,TJX,http://fortune.com/fortune500/tjx-103/,www.tjx.com
+104,Time Warner,http://fortune.com/fortune500/time-warner-104/,www.timewarner.com
+105,Macy's,http://fortune.com/fortune500/macys-105/,www.macysinc.com
+106,Nike,http://fortune.com/fortune500/nike-106/,www.nike.com
+107,Tech Data,http://fortune.com/fortune500/tech-data-107/,www.techdata.com
+108,Avnet,http://fortune.com/fortune500/avnet-108/,www.avnet.com
+109,Northwestern Mutual,http://fortune.com/fortune500/northwestern-mutual-109/,www.northwesternmutual.com
+110,McDonald's,http://fortune.com/fortune500/mcdonalds-110/,www.aboutmcdonalds.com
+111,Exelon,http://fortune.com/fortune500/exelon-111/,www.exeloncorp.com
+112,Travelers Cos.,http://fortune.com/fortune500/travelers-cos-112/,www.travelers.com
+113,Qualcomm,http://fortune.com/fortune500/qualcomm-113/,www.qualcomm.com
+114,International Paper,http://fortune.com/fortune500/international-paper-114/,www.internationalpaper.com
+115,Occidental Petroleum,http://fortune.com/fortune500/occidental-petroleum-115/,www.oxy.com
+116,Duke Energy,http://fortune.com/fortune500/duke-energy-116/,www.duke-energy.com
+117,Rite Aid,http://fortune.com/fortune500/rite-aid-117/,www.riteaid.com
+118,Gilead Sciences,http://fortune.com/fortune500/gilead-sciences-118/,www.gilead.com
+119,Baker Hughes,http://fortune.com/fortune500/baker-hughes-119/,www.bakerhughes.com
+120,Emerson Electric,http://fortune.com/fortune500/emerson-electric-120/,www.emerson.com
+121,EMC,http://fortune.com/fortune500/emc-121/,www.emc.com
+122,USAA,http://fortune.com/fortune500/usaa-122/,www.usaa.com
+123,Union Pacific,http://fortune.com/fortune500/union-pacific-123/,www.up.com
+124,Northrop Grumman,http://fortune.com/fortune500/northrop-grumman-124/,www.northropgrumman.com
+125,Alcoa,http://fortune.com/fortune500/alcoa-125/,www.alcoa.com
+126,Capital One Financial,http://fortune.com/fortune500/capital-one-financial-126/,www.capitalone.com
+127,National Oilwell Varco,http://fortune.com/fortune500/national-oilwell-varco-127/,www.nov.com
+128,US Foods,http://fortune.com/fortune500/us-foods-128/,www.usfoods.com
+129,Raytheon,http://fortune.com/fortune500/raytheon-129/,www.raytheon.com
+130,Time Warner Cable,http://fortune.com/fortune500/time-warner-cable-130/,www.twc.com
+131,Arrow Electronics,http://fortune.com/fortune500/arrow-electronics-131/,www.arrow.com
+132,Aflac,http://fortune.com/fortune500/aflac-132/,www.aflac.com
+133,Staples,http://fortune.com/fortune500/staples-133/,www.staples.com
+134,Abbott Laboratories,http://fortune.com/fortune500/abbott-laboratories-134/,www.abbott.com
+135,Community Health Systems,http://fortune.com/fortune500/community-health-systems-135/,www.chs.net
+136,Fluor,http://fortune.com/fortune500/fluor-136/,www.fluor.com
+137,Freeport-McMoRan,http://fortune.com/fortune500/freeport-mcmoran-137/,www.fcx.com
+138,U.S. Bancorp,http://fortune.com/fortune500/u-s-bancorp-138/,www.usbank.com
+139,Nucor,http://fortune.com/fortune500/nucor-139/,www.nucor.com
+140,Kimberly-Clark,http://fortune.com/fortune500/kimberly-clark-140/,www.kimberly-clark.com
+141,Hess,http://fortune.com/fortune500/hess-141/,www.hess.com
+142,Chesapeake Energy,http://fortune.com/fortune500/chesapeake-energy-142/,www.chk.com
+143,Xerox,http://fortune.com/fortune500/xerox-143/,www.xerox.com
+144,ManpowerGroup,http://fortune.com/fortune500/manpowergroup-144/,www.manpowergroup.com
+145,Amgen,http://fortune.com/fortune500/amgen-145/,www.amgen.com
+146,AbbVie,http://fortune.com/fortune500/abbvie-146/,www.abbvie.com
+147,Danaher,http://fortune.com/fortune500/danaher-147/,www.danaher.com
+148,Whirlpool,http://fortune.com/fortune500/whirlpool-148/,www.whirlpoolcorp.com
+149,PBF Energy,http://fortune.com/fortune500/pbf-energy-149/,www.pbfenergy.com
+150,HollyFrontier,http://fortune.com/fortune500/hollyfrontier-150/,www.hollyfrontier.com
+151,Eli Lilly,http://fortune.com/fortune500/eli-lilly-151/,www.lilly.com
+152,Devon Energy,http://fortune.com/fortune500/devon-energy-152/,www.devonenergy.com
+153,Progressive,http://fortune.com/fortune500/progressive-153/,www.progressive.com
+154,Cummins,http://fortune.com/fortune500/cummins-154/,www.cummins.com
+155,Icahn Enterprises,http://fortune.com/fortune500/icahn-enterprises-155/,www.ielp.com
+156,AutoNation,http://fortune.com/fortune500/autonation-156/,www.autonation.com
+157,Kohl's,http://fortune.com/fortune500/kohls-157/,www.kohlscorporation.com
+158,Paccar,http://fortune.com/fortune500/paccar-158/,www.paccar.com
+159,Dollar General,http://fortune.com/fortune500/dollar-general-159/,www.dollargeneral.com
+160,Hartford Financial Services Group,http://fortune.com/fortune500/hartford-financial-services-group-160/,www.thehartford.com
+161,Southwest Airlines,http://fortune.com/fortune500/southwest-airlines-161/,www.southwest.com
+162,Anadarko Petroleum,http://fortune.com/fortune500/anadarko-petroleum-162/,www.anadarko.com
+163,Southern,http://fortune.com/fortune500/southern-163/,www.southerncompany.com
+164,Supervalu,http://fortune.com/fortune500/supervalu-164/,www.supervalu.com
+165,Kraft Foods Group,http://fortune.com/fortune500/kraft-foods-group-165/,www.kraftfoodsgroup.com
+166,Goodyear Tire & Rubber,http://fortune.com/fortune500/goodyear-tire-rubber-166/,www.goodyear.com
+167,EOG Resources,http://fortune.com/fortune500/eog-resources-167/,www.eogresources.com
+168,CenturyLink,http://fortune.com/fortune500/centurylink-168/,www.centurylink.com
+169,Altria Group,http://fortune.com/fortune500/altria-group-169/,www.altria.com
+170,Tenet Healthcare,http://fortune.com/fortune500/tenet-healthcare-170/,www.tenethealth.com
+171,General Mills,http://fortune.com/fortune500/general-mills-171/,www.generalmills.com
+172,eBay,http://fortune.com/fortune500/ebay-172/,www.ebay.com
+173,ConAgra Foods,http://fortune.com/fortune500/conagra-foods-173/,www.conagrafoods.com
+174,Lear,http://fortune.com/fortune500/lear-174/,www.lear.com
+175,TRW Automotive Holdings,http://fortune.com/fortune500/trw-automotive-holdings-175/,www.trw.com
+176,United States Steel,http://fortune.com/fortune500/united-states-steel-176/,www.ussteel.com
+177,Penske Automotive Group,http://fortune.com/fortune500/penske-automotive-group-177/,www.penskeautomotive.com
+178,AES,http://fortune.com/fortune500/aes-178/,www.aes.com
+179,Colgate-Palmolive,http://fortune.com/fortune500/colgate-palmolive-179/,www.colgatepalmolive.com
+180,Global Partners,http://fortune.com/fortune500/global-partners-180/,www.globalp.com
+181,Thermo Fisher Scientific,http://fortune.com/fortune500/thermo-fisher-scientific-181/,www.thermofisher.com
+182,PG&E Corp.,http://fortune.com/fortune500/pge-corp-182/,www.pge.com
+183,NextEra Energy,http://fortune.com/fortune500/nextera-energy-183/,www.nexteraenergy.com
+184,American Electric Power,http://fortune.com/fortune500/american-electric-power-184/,www.aep.com
+185,Baxter International,http://fortune.com/fortune500/baxter-international-185/,www.baxter.com
+186,Centene,http://fortune.com/fortune500/centene-186/,www.centene.com
+187,Starbucks,http://fortune.com/fortune500/starbucks-187/,www.starbucks.com
+188,Gap,http://fortune.com/fortune500/gap-188/,www.gapinc.com
+189,Bank of New York Mellon Corp.,http://fortune.com/fortune500/bank-of-new-york-mellon-corp-189/,www.bnymellon.com
+190,Micron Technology,http://fortune.com/fortune500/micron-technology-190/,www.micron.com
+191,Jabil Circuit,http://fortune.com/fortune500/jabil-circuit-191/,www.jabil.com
+192,PNC Financial Services Group,http://fortune.com/fortune500/pnc-financial-services-group-192/,www.pnc.com
+193,Kinder Morgan,http://fortune.com/fortune500/kinder-morgan-193/,www.kindermorgan.com
+194,Office Depot,http://fortune.com/fortune500/office-depot-194/,www.officedepot.com
+195,Bristol-Myers Squibb,http://fortune.com/fortune500/bristol-myers-squibb-195/,www.bms.com
+196,NRG Energy,http://fortune.com/fortune500/nrg-energy-196/,www.nrgenergy.com
+197,Monsanto,http://fortune.com/fortune500/monsanto-197/,www.monsanto.com
+198,PPG Industries,http://fortune.com/fortune500/ppg-industries-198/,www.ppg.com
+199,Genuine Parts,http://fortune.com/fortune500/genuine-parts-199/,www.genpt.com
+200,Omnicom Group,http://fortune.com/fortune500/omnicom-group-200/,www.omnicomgroup.com
+201,Illinois Tool Works,http://fortune.com/fortune500/illinois-tool-works-201/,www.itw.com
+202,Murphy USA,http://fortune.com/fortune500/murphy-usa-202/,corporate.murphyusa.com
+203,Land O'Lakes,http://fortune.com/fortune500/land-olakes-203/,www.landolakesinc.com
+204,Western Refining,http://fortune.com/fortune500/western-refining-204/,www.wnr.com
+205,Western Digital,http://fortune.com/fortune500/western-digital-205/,www.westerndigital.com
+206,FirstEnergy,http://fortune.com/fortune500/firstenergy-206/,www.firstenergycorp.com
+207,Aramark,http://fortune.com/fortune500/aramark-207/,www.aramark.com
+208,DISH Network,http://fortune.com/fortune500/dish-network-208/,www.dish.com
+209,Las Vegas Sands,http://fortune.com/fortune500/las-vegas-sands-209/,www.sands.com
+210,Kellogg,http://fortune.com/fortune500/kellogg-210/,www.kelloggcompany.com
+211,Loews,http://fortune.com/fortune500/loews-211/,www.loews.com
+212,CBS,http://fortune.com/fortune500/cbs-212/,www.cbscorporation.com
+213,Ecolab,http://fortune.com/fortune500/ecolab-213/,www.ecolab.com
+214,Whole Foods Market,http://fortune.com/fortune500/whole-foods-market-214/,www.wholefoodsmarket.com
+215,Chubb,http://fortune.com/fortune500/chubb-215/,www.chubb.com
+216,Health Net,http://fortune.com/fortune500/health-net-216/,www.healthnet.com
+217,Waste Management,http://fortune.com/fortune500/waste-management-217/,www.wm.com
+218,Apache,http://fortune.com/fortune500/apache-218/,www.apachecorp.com
+219,Textron,http://fortune.com/fortune500/textron-219/,www.textron.com
+220,Synnex,http://fortune.com/fortune500/synnex-220/,www.synnex.com
+221,Marriott International,http://fortune.com/fortune500/marriott-international-221/,www.marriott.com
+222,Viacom,http://fortune.com/fortune500/viacom-222/,www.viacom.com
+223,Lincoln National,http://fortune.com/fortune500/lincoln-national-223/,www.lfg.com
+224,Nordstrom,http://fortune.com/fortune500/nordstrom-224/,www.nordstrom.com
+225,C.H. Robinson Worldwide,http://fortune.com/fortune500/c-h-robinson-worldwide-225/,www.chrobinson.com
+226,Edison International,http://fortune.com/fortune500/edison-international-226/,www.edisoninvestor.com
+227,Marathon Oil,http://fortune.com/fortune500/marathon-oil-227/,www.marathonoil.com
+228,Yum Brands,http://fortune.com/fortune500/yum-brands-228/,www.yum.com
+229,Computer Sciences,http://fortune.com/fortune500/computer-sciences-229/,www.csc.com
+230,Parker-Hannifin,http://fortune.com/fortune500/parker-hannifin-230/,www.parker.com
+231,DaVita HealthCare Partners,http://fortune.com/fortune500/davita-healthcare-partners-231/,www.davita.com
+232,CarMax,http://fortune.com/fortune500/carmax-232/,www.carmax.com
+233,Texas Instruments,http://fortune.com/fortune500/texas-instruments-233/,www.ti.com
+234,WellCare Health Plans,http://fortune.com/fortune500/wellcare-health-plans-234/,www.wellcare.com
+235,Marsh & McLennan,http://fortune.com/fortune500/marsh-mclennan-235/,www.mmc.com
+236,Consolidated Edison,http://fortune.com/fortune500/consolidated-edison-236/,www.conedison.com
+237,Oneok,http://fortune.com/fortune500/oneok-237/,www.oneok.com
+238,Visa,http://fortune.com/fortune500/visa-238/,www.visa.com
+239,Jacobs Engineering Group,http://fortune.com/fortune500/jacobs-engineering-group-239/,www.jacobs.com
+240,CSX,http://fortune.com/fortune500/csx-240/,www.csx.com
+241,Entergy,http://fortune.com/fortune500/entergy-241/,www.entergy.com
+242,Facebook,http://fortune.com/fortune500/facebook-242/,www.facebook.com
+243,Dominion Resources,http://fortune.com/fortune500/dominion-resources-243/,www.dom.com
+244,Leucadia National,http://fortune.com/fortune500/leucadia-national-244/,www.leucadia.com
+245,"Toys ""R"" Us",http://fortune.com/fortune500/toys-r-us-245/,www.toysrusinc.com
+246,DTE Energy,http://fortune.com/fortune500/dte-energy-246/,www.dteenergy.com
+247,Ameriprise Financial,http://fortune.com/fortune500/ameriprise-financial-247/,www.ameriprise.com
+248,VF,http://fortune.com/fortune500/vf-248/,www.vfc.com
+249,Praxair,http://fortune.com/fortune500/praxair-249/,www.praxair.com
+250,J.C. Penney,http://fortune.com/fortune500/j-c-penney-250/,www.jcpenney.com
+251,Automatic Data Processing,http://fortune.com/fortune500/automatic-data-processing-251/,www.adp.com
+252,L-3 Communications,http://fortune.com/fortune500/l-3-communications-252/,www.l-3com.com
+253,CDW,http://fortune.com/fortune500/cdw-253/,www.cdw.com
+254,Guardian Life Ins. Co. of America,http://fortune.com/fortune500/guardian-life-ins-co-of-america-254/,www.guardianlife.com
+255,Xcel Energy,http://fortune.com/fortune500/xcel-energy-255/,www.xcelenergy.com
+256,Norfolk Southern,http://fortune.com/fortune500/norfolk-southern-256/,www.nscorp.com
+257,PPL,http://fortune.com/fortune500/ppl-257/,www.pplweb.com
+258,R.R. Donnelley & Sons,http://fortune.com/fortune500/r-r-donnelley-sons-258/,www.rrdonnelley.com
+259,Huntsman,http://fortune.com/fortune500/huntsman-259/,www.huntsman.com
+260,Bed Bath & Beyond,http://fortune.com/fortune500/bed-bath-beyond-260/,www.bedbathandbeyond.com
+261,Stanley Black & Decker,http://fortune.com/fortune500/stanley-black-decker-261/,www.stanleyblackanddecker.com
+262,L Brands,http://fortune.com/fortune500/l-brands-262/,www.lb.com
+263,Liberty Interactive,http://fortune.com/fortune500/liberty-interactive-263/,www.libertyinteractive.com
+264,Farmers Insurance Exchange,http://fortune.com/fortune500/farmers-insurance-exchange-264/,www.farmers.com
+265,First Data,http://fortune.com/fortune500/first-data-265/,www.firstdata.com
+266,Sherwin-Williams,http://fortune.com/fortune500/sherwin-williams-266/,www.sherwin.com
+267,BlackRock,http://fortune.com/fortune500/blackrock-267/,www.blackrock.com
+268,Voya Financial,http://fortune.com/fortune500/voya-financial-268/,www.voya.com
+269,Ross Stores,http://fortune.com/fortune500/ross-stores-269/,www.rossstores.com
+270,Sempra Energy,http://fortune.com/fortune500/sempra-energy-270/,www.sempra.com
+271,Estee Lauder,http://fortune.com/fortune500/estee-lauder-271/,www.elcompanies.com
+272,H.J. Heinz,http://fortune.com/fortune500/h-j-heinz-272/,www.heinz.com
+273,Reinsurance Group of America,http://fortune.com/fortune500/reinsurance-group-of-america-273/,www.rgare.com
+274,Public Service Enterprise Group,http://fortune.com/fortune500/public-service-enterprise-group-274/,www.pseg.com
+275,Cameron International,http://fortune.com/fortune500/cameron-international-275/,www.c-a-m.com
+276,Navistar International,http://fortune.com/fortune500/navistar-international-276/,www.navistar.com
+277,CST Brands,http://fortune.com/fortune500/cst-brands-277/,www.cstbrands.com
+278,State Street Corp.,http://fortune.com/fortune500/state-street-corp-278/,www.statestreet.com
+279,Unum Group,http://fortune.com/fortune500/unum-group-279/,www.unum.com
+280,Hilton Worldwide Holdings,http://fortune.com/fortune500/hilton-worldwide-holdings-280/,www.hiltonworldwide.com
+281,Family Dollar Stores,http://fortune.com/fortune500/family-dollar-stores-281/,www.familydollar.com
+282,Principal Financial,http://fortune.com/fortune500/principal-financial-282/,www.principal.com
+283,Reliance Steel & Aluminum,http://fortune.com/fortune500/reliance-steel-aluminum-283/,www.rsac.com
+284,Air Products & Chemicals,http://fortune.com/fortune500/air-products-chemicals-284/,www.airproducts.com
+285,Assurant,http://fortune.com/fortune500/assurant-285/,www.assurant.com
+286,Peter Kiewit Sons',http://fortune.com/fortune500/peter-kiewit-sons-286/,www.kiewit.com
+287,Henry Schein,http://fortune.com/fortune500/henry-schein-287/,www.henryschein.com
+288,Cognizant Technology Solutions,http://fortune.com/fortune500/cognizant-technology-solutions-288/,www.cognizant.com
+289,MGM Resorts International,http://fortune.com/fortune500/mgm-resorts-international-289/,www.mgmresorts.com
+290,W.W. Grainger,http://fortune.com/fortune500/w-w-grainger-290/,www.grainger.com
+291,Group 1 Automotive,http://fortune.com/fortune500/group-1-automotive-291/,www.group1auto.com
+292,BB&T Corp.,http://fortune.com/fortune500/bbt-corp-292/,www.bbt.com
+293,WestRock,http://fortune.com/fortune500/westrock-293/,www.westrock.com
+294,Advance Auto Parts,http://fortune.com/fortune500/advance-auto-parts-294/,www.advanceautoparts.com
+295,Ally Financial,http://fortune.com/fortune500/ally-financial-295/,www.ally.com
+296,AGCO,http://fortune.com/fortune500/agco-296/,www.agcocorp.com
+297,Corning,http://fortune.com/fortune500/corning-297/,www.corning.com
+298,Biogen,http://fortune.com/fortune500/biogen-298/,www.biogen.com
+299,NGL Energy Partners,http://fortune.com/fortune500/ngl-energy-partners-299/,www.nglenergypartners.com
+300,Stryker,http://fortune.com/fortune500/stryker-300/,www.stryker.com
+301,Molina Healthcare,http://fortune.com/fortune500/molina-healthcare-301/,www.molinahealthcare.com
+302,Precision Castparts,http://fortune.com/fortune500/precision-castparts-302/,www.precast.com
+303,Discover Financial Services,http://fortune.com/fortune500/discover-financial-services-303/,www.discoverfinancial.com
+304,Genworth Financial,http://fortune.com/fortune500/genworth-financial-304/,www.genworth.com
+305,Eastman Chemical,http://fortune.com/fortune500/eastman-chemical-305/,www.eastman.com
+306,Dean Foods,http://fortune.com/fortune500/dean-foods-306/,www.deanfoods.com
+307,AutoZone,http://fortune.com/fortune500/autozone-307/,www.autozone.com
+308,MasterCard,http://fortune.com/fortune500/mastercard-308/,www.mastercard.com
+309,Owens & Minor,http://fortune.com/fortune500/owens-minor-309/,www.owens-minor.com
+310,Hormel Foods,http://fortune.com/fortune500/hormel-foods-310/,www.hormelfoods.com
+311,GameStop,http://fortune.com/fortune500/gamestop-311/,www.gamestopcorp.com
+312,Autoliv,http://fortune.com/fortune500/autoliv-312/,www.autoliv.com
+313,CenterPoint Energy,http://fortune.com/fortune500/centerpoint-energy-313/,www.centerpointenergy.com
+314,Fidelity National Financial,http://fortune.com/fortune500/fidelity-national-financial-314/,www.fnf.com
+315,Sonic Automotive,http://fortune.com/fortune500/sonic-automotive-315/,www.sonicautomotive.com
+316,HD Supply Holdings,http://fortune.com/fortune500/hd-supply-holdings-316/,www.hdsupply.com
+317,Charter Communications,http://fortune.com/fortune500/charter-communications-317/,www.charter.com
+318,Crown Holdings,http://fortune.com/fortune500/crown-holdings-318/,www.crowncork.com
+319,Applied Materials,http://fortune.com/fortune500/applied-materials-319/,www.appliedmaterials.com
+320,Mosaic,http://fortune.com/fortune500/mosaic-320/,www.mosaicco.com
+321,CBRE Group,http://fortune.com/fortune500/cbre-group-321/,www.cbre.com
+322,Avon Products,http://fortune.com/fortune500/avon-products-322/,www.avoncompany.com
+323,Republic Services,http://fortune.com/fortune500/republic-services-323/,www.republicservices.com
+324,Universal Health Services,http://fortune.com/fortune500/universal-health-services-324/,www.uhsinc.com
+325,Darden Restaurants,http://fortune.com/fortune500/darden-restaurants-325/,www.darden.com
+326,Steel Dynamics,http://fortune.com/fortune500/steel-dynamics-326/,www.steeldynamics.com
+327,SunTrust Banks,http://fortune.com/fortune500/suntrust-banks-327/,www.suntrust.com
+328,Caesars Entertainment,http://fortune.com/fortune500/caesars-entertainment-328/,www.caesars.com
+329,Targa Resources,http://fortune.com/fortune500/targa-resources-329/,www.targaresources.com
+330,Dollar Tree,http://fortune.com/fortune500/dollar-tree-330/,www.dollartree.com
+331,News Corp.,http://fortune.com/fortune500/news-corp-331/,www.newscorp.com
+332,Ball,http://fortune.com/fortune500/ball-332/,www.ball.com
+333,Thrivent Financial for Lutherans,http://fortune.com/fortune500/thrivent-financial-for-lutherans-333/,www.thrivent.com
+334,Masco,http://fortune.com/fortune500/masco-334/,www.masco.com
+335,Franklin Resources,http://fortune.com/fortune500/franklin-resources-335/,www.franklinresources.com
+336,Avis Budget Group,http://fortune.com/fortune500/avis-budget-group-336/,www.avisbudgetgroup.com
+337,Reynolds American,http://fortune.com/fortune500/reynolds-american-337/,www.reynoldsamerican.com
+338,Becton Dickinson,http://fortune.com/fortune500/becton-dickinson-338/,www.bd.com
+339,Priceline Group,http://fortune.com/fortune500/priceline-group-339/,www.pricelinegroup.com
+340,Broadcom,http://fortune.com/fortune500/broadcom-340/,www.broadcom.com
+341,Tenneco,http://fortune.com/fortune500/tenneco-341/,www.tenneco.com
+342,Campbell Soup,http://fortune.com/fortune500/campbell-soup-342/,www.campbellsoupcompany.com
+343,AECOM,http://fortune.com/fortune500/aecom-343/,www.aecom.com
+344,Visteon,http://fortune.com/fortune500/visteon-344/,www.visteon.com
+345,Delek US Holdings,http://fortune.com/fortune500/delek-us-holdings-345/,www.delekus.com
+346,Dover,http://fortune.com/fortune500/dover-346/,www.dovercorporation.com
+347,BorgWarner,http://fortune.com/fortune500/borgwarner-347/,www.borgwarner.com
+348,Jarden,http://fortune.com/fortune500/jarden-348/,www.jarden.com
+349,UGI,http://fortune.com/fortune500/ugi-349/,www.ugicorp.com
+350,Murphy Oil,http://fortune.com/fortune500/murphy-oil-350/,www.murphyoilcorp.com
+351,PVH,http://fortune.com/fortune500/pvh-351/,www.pvh.com
+352,Core-Mark Holding,http://fortune.com/fortune500/core-mark-holding-352/,www.core-mark.com
+353,Calpine,http://fortune.com/fortune500/calpine-353/,www.calpine.com
+354,D.R. Horton,http://fortune.com/fortune500/d-r-horton-354/,www.drhorton.com
+355,Weyerhaeuser,http://fortune.com/fortune500/weyerhaeuser-355/,www.weyerhaeuser.com
+356,KKR,http://fortune.com/fortune500/kkr-356/,www.kkr.com
+357,FMC Technologies,http://fortune.com/fortune500/fmc-technologies-357/,www.fmctechnologies.com
+358,American Family Insurance Group,http://fortune.com/fortune500/american-family-insurance-group-358/,www.amfam.com
+359,SpartanNash,http://fortune.com/fortune500/spartannash-359/,www.spartannash.com
+360,WESCO International,http://fortune.com/fortune500/wesco-international-360/,www.wesco.com
+361,Quanta Services,http://fortune.com/fortune500/quanta-services-361/,www.quantaservices.com
+362,Mohawk Industries,http://fortune.com/fortune500/mohawk-industries-362/,www.mohawkind.com
+363,Motorola Solutions,http://fortune.com/fortune500/motorola-solutions-363/,www.motorolasolutions.com
+364,Lennar,http://fortune.com/fortune500/lennar-364/,www.lennar.com
+365,TravelCenters of America,http://fortune.com/fortune500/travelcenters-of-america-365/,www.ta-petrol.com
+366,Sealed Air,http://fortune.com/fortune500/sealed-air-366/,www.sealedair.com
+367,Eversource Energy,http://fortune.com/fortune500/eversource-energy-367/,www.eversource.com
+368,Coca-Cola Enterprises,http://fortune.com/fortune500/coca-cola-enterprises-368/,www.cokecce.com
+369,Celgene,http://fortune.com/fortune500/celgene-369/,www.celgene.com
+370,Williams,http://fortune.com/fortune500/williams-370/,www.williams.com
+371,Ashland,http://fortune.com/fortune500/ashland-371/,www.ashland.com
+372,Interpublic Group,http://fortune.com/fortune500/interpublic-group-372/,www.interpublic.com
+373,Blackstone Group,http://fortune.com/fortune500/blackstone-group-373/,www.blackstone.com
+374,Ralph Lauren,http://fortune.com/fortune500/ralph-lauren-374/,www.ralphlauren.com
+375,Quest Diagnostics,http://fortune.com/fortune500/quest-diagnostics-375/,www.questdiagnostics.com
+376,Hershey,http://fortune.com/fortune500/hershey-376/,www.thehersheycompany.com
+377,Terex,http://fortune.com/fortune500/terex-377/,www.terex.com
+378,Boston Scientific,http://fortune.com/fortune500/boston-scientific-378/,www.bostonscientific.com
+379,Newmont Mining,http://fortune.com/fortune500/newmont-mining-379/,www.newmont.com
+380,Allergan,http://fortune.com/fortune500/allergan-380/,www.allergan.com
+381,O'Reilly Automotive,http://fortune.com/fortune500/oreilly-automotive-381/,www.oreillyauto.com
+382,Casey's General Stores,http://fortune.com/fortune500/caseys-general-stores-382/,www.caseys.com
+383,CMS Energy,http://fortune.com/fortune500/cms-energy-383/,www.cmsenergy.com
+384,Foot Locker,http://fortune.com/fortune500/foot-locker-384/,www.footlocker-inc.com
+385,W.R. Berkley,http://fortune.com/fortune500/w-r-berkley-385/,www.wrberkley.com
+386,PetSmart,http://fortune.com/fortune500/petsmart-386/,www.petsmart.com
+387,Pacific Life,http://fortune.com/fortune500/pacific-life-387/,www.pacificlife.com
+388,Commercial Metals,http://fortune.com/fortune500/commercial-metals-388/,www.cmc.com
+389,Agilent Technologies,http://fortune.com/fortune500/agilent-technologies-389/,www.agilent.com
+390,Huntington Ingalls Industries,http://fortune.com/fortune500/huntington-ingalls-industries-390/,www.huntingtoningalls.com
+391,Mutual of Omaha Insurance,http://fortune.com/fortune500/mutual-of-omaha-insurance-391/,www.mutualofomaha.com
+392,Live Nation Entertainment,http://fortune.com/fortune500/live-nation-entertainment-392/,www.livenation.com
+393,Dick's Sporting Goods,http://fortune.com/fortune500/dicks-sporting-goods-393/,www.dickssportinggoods.com
+394,Oshkosh,http://fortune.com/fortune500/oshkosh-394/,www.oshkoshcorporation.com
+395,Celanese,http://fortune.com/fortune500/celanese-395/,www.celanese.com
+396,Spirit AeroSystems Holdings,http://fortune.com/fortune500/spirit-aerosystems-holdings-396/,www.spiritaero.com
+397,United Natural Foods,http://fortune.com/fortune500/united-natural-foods-397/,www.unfi.com
+398,Peabody Energy,http://fortune.com/fortune500/peabody-energy-398/,www.peabodyenergy.com
+399,Owens-Illinois,http://fortune.com/fortune500/owens-illinois-399/,www.o-i.com
+400,Dillard's,http://fortune.com/fortune500/dillards-400/,www.dillards.com
+401,Level 3 Communications,http://fortune.com/fortune500/level-3-communications-401/,www.level3.com
+402,Pantry,http://fortune.com/fortune500/pantry-402/,www.couche-tard.com
+403,LKQ,http://fortune.com/fortune500/lkq-403/,www.lkqcorp.com
+404,Integrys Energy Group,http://fortune.com/fortune500/integrys-energy-group-404/,www.wecenergygroup.com
+405,Symantec,http://fortune.com/fortune500/symantec-405/,www.symantec.com
+406,Buckeye Partners,http://fortune.com/fortune500/buckeye-partners-406/,www.buckeye.com
+407,Ryder System,http://fortune.com/fortune500/ryder-system-407/,www.ryder.com
+408,SanDisk,http://fortune.com/fortune500/sandisk-408/,www.sandisk.com
+409,Rockwell Automation,http://fortune.com/fortune500/rockwell-automation-409/,www.rockwellautomation.com
+410,Dana Holding,http://fortune.com/fortune500/dana-holding-410/,www.dana.com
+411,Lansing Trade Group,http://fortune.com/fortune500/lansing-trade-group-411/,www.lansingtradegroup.com
+412,NCR,http://fortune.com/fortune500/ncr-412/,www.ncr.com
+413,Expeditors International of Washington,http://fortune.com/fortune500/expeditors-international-of-washington-413/,www.expeditors.com
+414,Omnicare,http://fortune.com/fortune500/omnicare-414/,www.omnicare.com
+415,AK Steel Holding,http://fortune.com/fortune500/ak-steel-holding-415/,www.aksteel.com
+416,Fifth Third Bancorp,http://fortune.com/fortune500/fifth-third-bancorp-416/,www.53.com
+417,Seaboard,http://fortune.com/fortune500/seaboard-417/,www.seaboardcorp.com
+418,NiSource,http://fortune.com/fortune500/nisource-418/,www.nisource.com
+419,Cablevision Systems,http://fortune.com/fortune500/cablevision-systems-419/,www.cablevision.com
+420,Anixter International,http://fortune.com/fortune500/anixter-international-420/,www.anixter.com
+421,EMCOR Group,http://fortune.com/fortune500/emcor-group-421/,www.emcorgroup.com
+422,Fidelity National Information Services,http://fortune.com/fortune500/fidelity-national-information-services-422/,www.fisglobal.com
+423,Barnes & Noble,http://fortune.com/fortune500/barnes-noble-423/,www.barnesandnobleinc.com
+424,KBR,http://fortune.com/fortune500/kbr-424/,www.kbr.com
+425,Auto-Owners Insurance,http://fortune.com/fortune500/auto-owners-insurance-425/,www.auto-owners.com
+426,Jones Financial,http://fortune.com/fortune500/jones-financial-426/,www.edwardjones.com
+427,Avery Dennison,http://fortune.com/fortune500/avery-dennison-427/,www.averydennison.com
+428,NetApp,http://fortune.com/fortune500/netapp-428/,www.netapp.com
+429,iHeartMedia,http://fortune.com/fortune500/iheartmedia-429/,www.iheartmedia.com
+430,Discovery Communications,http://fortune.com/fortune500/discovery-communications-430/,www.discoverycommunications.com
+431,Harley-Davidson,http://fortune.com/fortune500/harley-davidson-431/,www.harley-davidson.com
+432,Sanmina,http://fortune.com/fortune500/sanmina-432/,www.sanmina.com
+433,Trinity Industries,http://fortune.com/fortune500/trinity-industries-433/,www.trin.net
+434,J.B. Hunt Transport Services,http://fortune.com/fortune500/j-b-hunt-transport-services-434/,www.jbhunt.com
+435,Charles Schwab,http://fortune.com/fortune500/charles-schwab-435/,www.aboutschwab.com
+436,Erie Insurance Group,http://fortune.com/fortune500/erie-insurance-group-436/,www.erieinsurance.com
+437,Dr Pepper Snapple Group,http://fortune.com/fortune500/dr-pepper-snapple-group-437/,www.drpeppersnapplegroup.com
+438,Ameren,http://fortune.com/fortune500/ameren-438/,www.ameren.com
+439,Mattel,http://fortune.com/fortune500/mattel-439/,www.mattel.com
+440,Laboratory Corp. of America,http://fortune.com/fortune500/laboratory-corp-of-america-440/,www.labcorp.com
+441,TEGNA,http://fortune.com/fortune500/gannett-441/,www.tegna.com/
+442,Starwood Hotels & Resorts,http://fortune.com/fortune500/starwood-hotels-resorts-442/,www.starwoodhotels.com
+443,General Cable,http://fortune.com/fortune500/general-cable-443/,www.generalcable.com
+444,A-Mark Precious Metals,http://fortune.com/fortune500/a-mark-precious-metals-444/,www.amark.com
+445,Graybar Electric,http://fortune.com/fortune500/graybar-electric-445/,www.graybar.com
+446,Energy Future Holdings,http://fortune.com/fortune500/energy-future-holdings-446/,www.energyfutureholdings.com
+447,HRG Group,http://fortune.com/fortune500/hrg-group-447/,www.hrggroup.com
+448,MRC Global,http://fortune.com/fortune500/mrc-global-448/,www.mrcglobal.com
+449,Spectra Energy,http://fortune.com/fortune500/spectra-energy-449/,www.spectraenergy.com
+450,Asbury Automotive Group,http://fortune.com/fortune500/asbury-automotive-group-450/,www.asburyauto.com
+451,Packaging Corp. of America,http://fortune.com/fortune500/packaging-corp-of-america-451/,www.packagingcorp.com
+452,Windstream Holdings,http://fortune.com/fortune500/windstream-holdings-452/,www.windstream.com
+453,PulteGroup,http://fortune.com/fortune500/pultegroup-453/,www.pultegroupinc.com
+454,JetBlue Airways,http://fortune.com/fortune500/jetblue-airways-454/,www.jetblue.com
+455,Newell Rubbermaid,http://fortune.com/fortune500/newell-rubbermaid-455/,www.newellrubbermaid.com
+456,Con-way,http://fortune.com/fortune500/con-way-456/,www.con-way.com
+457,Calumet Specialty Products Partners,http://fortune.com/fortune500/calumet-specialty-products-partners-457/,www.calumetspecialty.com
+458,Expedia,http://fortune.com/fortune500/expedia-458/,www.expediainc.com
+459,American Financial Group,http://fortune.com/fortune500/american-financial-group-459/,www.afginc.com
+460,Tractor Supply,http://fortune.com/fortune500/tractor-supply-460/,www.tractorsupply.com
+461,United Rentals,http://fortune.com/fortune500/united-rentals-461/,www.unitedrentals.com
+462,Ingredion,http://fortune.com/fortune500/ingredion-462/,www.ingredion.com
+463,Navient,http://fortune.com/fortune500/navient-463/,www.navient.com
+464,MeadWestvaco,http://fortune.com/fortune500/meadwestvaco-464/,www.mwv.com
+465,AGL Resources,http://fortune.com/fortune500/agl-resources-465/,www.aglresources.com
+466,St. Jude Medical,http://fortune.com/fortune500/st-jude-medical-466/,www.sjm.com
+467,J.M. Smucker,http://fortune.com/fortune500/j-m-smucker-467/,www.jmsmucker.com
+468,Western Union,http://fortune.com/fortune500/western-union-468/,www.westernunion.com
+469,Clorox,http://fortune.com/fortune500/clorox-469/,www.thecloroxcompany.com
+470,Domtar,http://fortune.com/fortune500/domtar-470/,www.domtar.com
+471,Kelly Services,http://fortune.com/fortune500/kelly-services-471/,www.kellyservices.com
+472,Old Republic International,http://fortune.com/fortune500/old-republic-international-472/,www.oldrepublic.com
+473,Advanced Micro Devices,http://fortune.com/fortune500/advanced-micro-devices-473/,www.amd.com
+474,Netflix,http://fortune.com/fortune500/netflix-474/,www.netflix.com
+475,Booz Allen Hamilton Holding,http://fortune.com/fortune500/booz-allen-hamilton-holding-475/,www.boozallen.com
+476,Quintiles Transnational Holdings,http://fortune.com/fortune500/quintiles-transnational-holdings-476/,www.quintiles.com
+477,Wynn Resorts,http://fortune.com/fortune500/wynn-resorts-477/,www.wynnresorts.com
+478,Jones Lang LaSalle,http://fortune.com/fortune500/jones-lang-lasalle-478/,www.jll.com
+479,Regions Financial,http://fortune.com/fortune500/regions-financial-479/,www.regions.com
+480,CH2M Hill,http://fortune.com/fortune500/ch2m-hill-480/,www.ch2m.com
+481,Western & Southern Financial Group,http://fortune.com/fortune500/western-southern-financial-group-481/,www.westernsouthern.com
+482,Lithia Motors,http://fortune.com/fortune500/lithia-motors-482/,www.lithia.com
+483,salesforce.com,http://fortune.com/fortune500/salesforce-com-483/,www.salesforce.com
+484,Alaska Air Group,http://fortune.com/fortune500/alaska-air-group-484/,www.alaskaair.com
+485,Host Hotels & Resorts,http://fortune.com/fortune500/host-hotels-resorts-485/,www.hosthotels.com
+486,Harman International Industries,http://fortune.com/fortune500/harman-international-industries-486/,www.harman.com
+487,Amphenol,http://fortune.com/fortune500/amphenol-487/,www.amphenol.com
+488,Realogy Holdings,http://fortune.com/fortune500/realogy-holdings-488/,www.realogy.com
+489,Essendant,http://fortune.com/fortune500/united-stationers-489/,www.essendant.com
+490,Hanesbrands,http://fortune.com/fortune500/hanesbrands-490/,www.hanes.com
+491,Kindred Healthcare,http://fortune.com/fortune500/kindred-healthcare-491/,www.kindredhealthcare.com
+492,ARRIS Group,http://fortune.com/fortune500/arris-group-492/,www.arris.com
+493,Insight Enterprises,http://fortune.com/fortune500/insight-enterprises-493/,www.insight.com
+494,Alliance Data Systems,http://fortune.com/fortune500/alliance-data-systems-494/,www.alliancedata.com
+495,LifePoint Health,http://fortune.com/fortune500/lifepoint-health-495/,www.lifepointhealth.net
+496,Pioneer Natural Resources,http://fortune.com/fortune500/pioneer-natural-resources-496/,www.pxd.com
+497,Wyndham Worldwide,http://fortune.com/fortune500/wyndham-worldwide-497/,www.wyndhamworldwide.com
+498,Owens Corning,http://fortune.com/fortune500/owens-corning-498/,www.owenscorning.com
+499,Alleghany,http://fortune.com/fortune500/alleghany-499/,www.alleghany.com
+500,McGraw Hill Financial,http://fortune.com/fortune500/mcgraw-hill-financial-500/,www.mhfi.com

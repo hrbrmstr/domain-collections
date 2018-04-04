@@ -1,0 +1,15 @@
+{
+  "title" : "Fortune 500 (2014-2016)",
+  "url" : "https://docs.google.com/spreadsheets/d/12G3rR5WsOJFQzkb9UHVt_U7rpFqnT3C7thKPJxn17xo/edit#gid=860706176",
+  "type" : "internet",
+  "owner" : "Zyware",
+  "description" : "There are three CSV files, one (each) for 2014-2016. The formats vary but the primary web domain is specified.",
+  "license" : "MIT",
+  "format" : "CSV",
+  "structure" : "Each CSV file is different, unforunately.",
+  "contributor" : "Bob Rudis (@hrbrmstr)",
+  "added" : "2018-04-03",
+  "last_modified" : "2018-04-03",
+  "comments" : "There are three CSV files, one (each) for 2014-2016. The formats vary but the primary web domain is specified.",
+  "auto_update_enabled" : false
+}
