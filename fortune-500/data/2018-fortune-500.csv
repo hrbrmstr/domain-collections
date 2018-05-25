@@ -1,0 +1,501 @@
+f500_rank,org,sector,industry,employees,website
+1,Walmart,Retailing,General Merchandisers,23e5,www.stock.walmart.com
+2,Exxon Mobil,Energy,Petroleum Refining,71200,www.exxonmobil.com
+3,Berkshire Hathaway,Financials,Insurance: Property and Casualty (Stock),377e3,www.berkshirehathaway.com
+4,Apple,Technology,"Computers, Office Equipment",123e3,www.apple.com
+5,UnitedHealth Group,Health Care,Health Care: Insurance and Managed Care,26e4,www.unitedhealthgroup.com
+6,McKesson,Wholesalers,Wholesalers: Health Care,64500,www.mckesson.com
+7,CVS Health,Health Care,Health Care: Pharmacy and Other Services,203e3,www.cvshealth.com
+8,Amazon.com,Retailing,Internet Services and Retailing,566e3,www.amazon.com
+9,AT&T,Telecommunications,Telecommunications,254e3,www.att.com
+10,General Motors,Motor Vehicles & Parts,Motor Vehicles and Parts,18e4,www.gm.com
+11,Ford Motor,Motor Vehicles & Parts,Motor Vehicles and Parts,202e3,www.corporate.ford.com
+12,AmerisourceBergen,Wholesalers,Wholesalers: Health Care,19500,www.amerisourcebergen.com
+13,Chevron,Energy,Petroleum Refining,51900,www.chevron.com
+14,Cardinal Health,Wholesalers,Wholesalers: Health Care,40400,www.cardinalhealth.com
+15,Costco,Retailing,General Merchandisers,182e3,www.costco.com
+16,Verizon,Telecommunications,Telecommunications,155400,www.verizon.com
+17,Kroger,Food & Drug Stores,Food and Drug Stores,449e3,www.thekrogerco.com
+18,General Electric,Industrials,Industrial Machinery,313e3,www.ge.com
+19,Walgreens Boots Alliance,Food & Drug Stores,Food and Drug Stores,29e4,www.walgreensbootsalliance.com
+20,JPMorgan Chase,Financials,Commercial Banks,252539,www.jpmorganchase.com
+21,Fannie Mae,Financials,Diversified Financials,7200,www.fanniemae.com
+22,Alphabet,Technology,Internet Services and Retailing,80110,www.abc.xyz
+23,Home Depot,Retailing,Specialty Retailers: Other,413e3,www.homedepot.com
+24,Bank of America Corp.,Financials,Commercial Banks,209376,www.bankofamerica.com
+25,Express Scripts Holding,Health Care,Health Care: Pharmacy and Other Services,26600,www.express-scripts.com
+26,Wells Fargo,Financials,Commercial Banks,262700,www.wellsfargo.com
+27,Boeing,Aerospace & Defense,Aerospace and Defense,140800,www.boeing.com
+28,Phillips 66,Energy,Petroleum Refining,14600,www.phillips66.com
+29,Anthem,Health Care,Health Care: Insurance and Managed Care,56e3,www.antheminc.com
+30,Microsoft,Technology,Computer Software,124e3,www.microsoft.com
+31,Valero Energy,Energy,Petroleum Refining,10015,www.valero.com
+32,Citigroup,Financials,Commercial Banks,209e3,www.citigroup.com
+33,Comcast,Telecommunications,Telecommunications,164e3,www.comcastcorporation.com
+34,IBM,Technology,Information Technology Services,397800,www.ibm.com
+35,Dell Technologies,Technology,"Computers, Office Equipment",145e3,www.delltechnologies.com
+36,State Farm Insurance Cos.,Financials,Insurance: Property and Casualty (Mutual),65664,www.statefarm.com
+37,Johnson & Johnson,Health Care,Pharmaceuticals,134e3,www.jnj.com
+38,Freddie Mac,Financials,Diversified Financials,6165,www.freddiemac.com
+39,Target,Retailing,General Merchandisers,345e3,www.target.com
+40,Lowe’s,Retailing,Specialty Retailers: Other,255e3,www.lowes.com
+41,Marathon Petroleum,Energy,Petroleum Refining,43800,www.marathonpetroleum.com
+42,Procter & Gamble,Household Products,Household and Personal Products,95e3,www.pg.com
+43,MetLife,Financials,"Insurance: Life, Health (stock)",49e3,www.metlife.com
+44,UPS,Transportation,"Mail, Package, and Freight Delivery",346415,www.ups.com
+45,PepsiCo,"Food, Beverages & Tobacco",Food Consumer Products,263e3,www.pepsico.com
+46,Intel,Technology,Semiconductors and Other Electronic Components,102700,www.intel.com
+47,DowDuPont,Chemicals,Chemicals,98e3,www.dow-dupont.com
+48,Archer Daniels Midland,"Food, Beverages & Tobacco",Food Production,31300,www.adm.com
+49,Aetna,Health Care,Health Care: Insurance and Managed Care,47950,www.aetna.com
+50,FedEx,Transportation,"Mail, Package, and Freight Delivery",357e3,www.fedex.com
+51,United Technologies,Aerospace & Defense,Aerospace and Defense,204700,www.utc.com
+52,Prudential Financial,Financials,"Insurance: Life, Health (stock)",49705,www.prudential.com
+53,Albertsons Cos.,Food & Drug Stores,Food and Drug Stores,273e3,www.albertsons.com
+54,Sysco,Wholesalers,Wholesalers: Food and Grocery,66500,www.sysco.com
+55,Disney,Media,Entertainment,199e3,www.disney.com
+56,Humana,Health Care,Health Care: Insurance and Managed Care,45900,www.humana.com
+57,Pfizer,Health Care,Pharmaceuticals,90200,www.pfizer.com
+58,HP,Technology,"Computers, Office Equipment",49e3,www.hp.com
+59,Lockheed Martin,Aerospace & Defense,Aerospace and Defense,1e5,www.lockheedmartin.com
+60,AIG,Financials,Insurance: Property and Casualty (Stock),49800,www.aig.com
+61,Centene,Health Care,Health Care: Insurance and Managed Care,33700,www.centene.com
+62,Cisco Systems,Technology,Network and Other Communications Equipment,72900,www.cisco.com
+63,HCA Healthcare,Health Care,Health Care: Medical Facilities,221491,www.hcahealthcare.com
+64,Energy Transfer Equity,Energy,Pipelines,29486,www.energytransfer.com
+65,Caterpillar,Industrials,Construction and Farm Machinery,98400,www.caterpillar.com
+66,Nationwide,Financials,Insurance: Property and Casualty (Mutual),33135,www.nationwide.com
+67,Morgan Stanley,Financials,Commercial Banks,57633,www.morganstanley.com
+68,Liberty Mutual Insurance Group,Financials,Insurance: Property and Casualty (Stock),5e4,www.libertymutual.com
+69,New York Life Insurance,Financials,"Insurance: Life, Health (Mutual)",11114,www.newyorklife.com
+70,Goldman Sachs Group,Financials,Commercial Banks,36600,www.gs.com
+71,American Airlines Group,Transportation,Airlines,126600,www.aa.com
+72,Best Buy,Retailing,Specialty Retailers: Other,125e3,www.bestbuy.com
+73,Cigna,Health Care,Health Care: Insurance and Managed Care,46e3,www.cigna.com
+74,Charter Communications,Telecommunications,Telecommunications,94800,www.charter.com
+75,Delta Air Lines,Transportation,Airlines,86564,www.delta.com
+76,Facebook,Technology,Internet Services and Retailing,25105,www.facebook.com
+77,Honeywell International,Industrials,"Electronics, Electrical Equip.",131e3,www.honeywell.com
+78,Merck,Health Care,Pharmaceuticals,69e3,www.merck.com
+79,Allstate,Financials,Insurance: Property and Casualty (Stock),42680,www.allstate.com
+80,Tyson Foods,"Food, Beverages & Tobacco",Food Production,122e3,www.tysonfoods.com
+81,United Continental Holdings,Transportation,Airlines,89800,www.united.com
+82,Oracle,Technology,Computer Software,138e3,www.oracle.com
+83,Tech Data,Wholesalers,Wholesalers: Electronics and Office Equipment,14e3,www.techdata.com
+84,TIAA,Financials,"Insurance: Life, Health (Mutual)",16829,www.tiaa.org
+85,TJX,Retailing,Specialty Retailers: Apparel,249e3,www.tjx.com
+86,American Express,Financials,Diversified Financials,55e3,www.americanexpress.com
+87,Coca-Cola,"Food, Beverages & Tobacco",Beverages,61800,www.coca-colacompany.com
+88,Publix Super Markets,Food & Drug Stores,Food and Drug Stores,193e3,www.publix.com
+89,Nike,Apparel,Apparel,74400,www.nike.com
+90,Andeavor,Energy,Petroleum Refining,14300,www.andeavor.com
+91,World Fuel Services,Energy,Energy,5e3,www.wfscorp.com
+92,Exelon,Energy,Utilities: Gas and Electric,34621,www.exeloncorp.com
+93,Massachusetts Mutual Life Insurance,Financials,"Insurance: Life, Health (Mutual)",11811,www.massmutual.com
+94,Rite Aid,Food & Drug Stores,Food and Drug Stores,70430,www.riteaid.com
+95,ConocoPhillips,Energy,"Mining, Crude-Oil Production",11400,www.conocophillips.com
+96,CHS,"Food, Beverages & Tobacco",Food Production,11626,www.chsinc.com
+97,3M,Industrials,Miscellaneous,91536,www.3m.com
+98,Time Warner,Media,Entertainment,26e3,www.timewarner.com
+99,General Dynamics,Aerospace & Defense,Aerospace and Defense,98600,www.generaldynamics.com
+100,USAA,Financials,Insurance: Property and Casualty (Stock),32705,www.usaa.com
+101,Capital One Financial,Financials,Commercial Banks,49300,www.capitalone.com
+102,Deere,Industrials,Construction and Farm Machinery,60476,www.johndeere.com
+103,INTL FCStone,Financials,Diversified Financials,1607,www.intlfcstone.com
+104,Northwestern Mutual,Financials,"Insurance: Life, Health (Mutual)",5437,www.northwesternmutual.com
+105,Enterprise Products Partners,Energy,Pipelines,7e3,www.enterpriseproducts.com
+106,Travelers Cos.,Financials,Insurance: Property and Casualty (Stock),30800,www.travelers.com
+107,Hewlett Packard Enterprise,Technology,"Computers, Office Equipment",66e3,www.hpe.com
+108,Philip Morris International,"Food, Beverages & Tobacco",Tobacco,80600,www.pmi.com
+109,Twenty-First Century Fox,Media,Entertainment,21700,www.21cf.com
+110,AbbVie,Health Care,Pharmaceuticals,29e3,www.abbvie.com
+111,Abbott Laboratories,Health Care,Medical Products and Equipment,99e3,www.abbott.com
+112,Progressive,Financials,Insurance: Property and Casualty (Stock),33656,www.progressive.com
+113,Arrow Electronics,Wholesalers,Wholesalers: Electronics and Office Equipment,18800,www.arrow.com
+114,Kraft Heinz,"Food, Beverages & Tobacco",Food Consumer Products,39e3,www.kraftheinzcompany.com
+115,Plains GP Holdings,Energy,Pipelines,4850,www.plainsallamerican.com
+116,Gilead Sciences,Health Care,Pharmaceuticals,1e4,www.gilead.com
+117,Mondelez International,"Food, Beverages & Tobacco",Food Consumer Products,83e3,www.mondelezinternational.com
+118,Northrop Grumman,Aerospace & Defense,Aerospace and Defense,7e4,www.northropgrumman.com
+119,Raytheon,Aerospace & Defense,Aerospace and Defense,64e3,www.raytheon.com
+120,Macy’s,Retailing,General Merchandisers,13e4,www.macysinc.com
+121,US Foods Holding,Wholesalers,Wholesalers: Food and Grocery,25204,www.usfoods.com
+122,U.S. Bancorp,Financials,Commercial Banks,72402,www.usbank.com
+123,Dollar General,Retailing,Specialty Retailers: Other,129e3,www.dollargeneral.com
+124,International Paper,Materials,"Packaging, Containers",56e3,www.internationalpaper.com
+125,Duke Energy,Energy,Utilities: Gas and Electric,29060,www.duke-energy.com
+126,Southern,Energy,Utilities: Gas and Electric,31344,www.southerncompany.com
+127,Marriott International,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",177e3,www.marriott.com
+128,Avnet,Wholesalers,Wholesalers: Electronics and Office Equipment,15700,www.avnet.com
+129,Eli Lilly,Health Care,Pharmaceuticals,40655,www.lilly.com
+130,Amgen,Health Care,Pharmaceuticals,20800,www.amgen.com
+131,McDonald’s,"Hotels, Restaurants & Leisure",Food Services,235e3,www.aboutmcdonalds.com
+132,Starbucks,"Hotels, Restaurants & Leisure",Food Services,277e3,www.starbucks.com
+133,Qualcomm,Technology,Semiconductors and Other Electronic Components,33800,www.qualcomm.com
+134,Dollar Tree,Retailing,Specialty Retailers: Other,116200,www.dollartree.com
+135,PBF Energy,Energy,Petroleum Refining,3165,www.pbfenergy.com
+136,Icahn Enterprises,Financials,Diversified Financials,89034,www.ielp.com
+137,Aflac,Financials,"Insurance: Life, Health (stock)",11318,www.aflac.com
+138,AutoNation,Retailing,"Automotive Retailing, Services",26e3,www.autonation.com
+139,Penske Automotive Group,Retailing,"Automotive Retailing, Services",26e3,www.penskeautomotive.com
+140,Whirlpool,Industrials,"Electronics, Electrical Equip.",92e3,www.whirlpoolcorp.com
+141,Union Pacific,Transportation,Railroads,41992,www.up.com
+142,Southwest Airlines,Transportation,Airlines,56110,www.southwest.com
+143,ManpowerGroup,Business Services,Temporary Help,29e3,www.manpowergroup.com
+144,Thermo Fisher Scientific,Technology,"Scientific,Photographic and  Control Equipment",66100,www.thermofisher.com
+145,Bristol-Myers Squibb,Health Care,Pharmaceuticals,23700,www.bms.com
+146,Halliburton,Energy,"Oil and Gas Equipment, Services",55e3,www.halliburton.com
+147,Tenet Healthcare,Health Care,Health Care: Medical Facilities,111980,www.tenethealth.com
+148,Lear,Motor Vehicles & Parts,Motor Vehicles and Parts,165e3,www.lear.com
+149,Cummins,Industrials,Industrial Machinery,58600,www.cummins.com
+150,Micron Technology,Technology,Semiconductors and Other Electronic Components,34100,www.micron.com
+151,Nucor,Materials,Metals,25100,www.nucor.com
+152,Molina Healthcare,Health Care,Health Care: Insurance and Managed Care,2e4,www.molinahealthcare.com
+153,Fluor,Engineering & Construction,"Engineering, Construction",56706,www.fluor.com
+154,Altria Group,"Food, Beverages & Tobacco",Tobacco,8300,www.altria.com
+155,Paccar,Industrials,Construction and Farm Machinery,25e3,www.paccar.com
+156,Hartford Financial Services,Financials,Insurance: Property and Casualty (Stock),16400,www.thehartford.com
+157,Kohl’s,Retailing,General Merchandisers,85e3,www.kohls.com
+158,Western Digital,Technology,"Computers, Office Equipment",67629,www.wdc.com
+159,Jabil,Technology,Semiconductors and Other Electronic Components,17e4,www.jabil.com
+160,Community Health Systems,Health Care,Health Care: Medical Facilities,86e3,www.chs.net
+161,Visa,Business Services,Financial Data Services,15e3,www.visa.com
+162,Danaher,Health Care,Medical Products and Equipment,67e3,www.danaher.com
+163,Kimberly-Clark,Household Products,Household and Personal Products,42e3,www.kimberly-clark.com
+164,AECOM,Engineering & Construction,"Engineering, Construction",87e3,www.aecom.com
+165,PNC Financial Services,Financials,Commercial Banks,51632,www.pnc.com
+166,CenturyLink,Telecommunications,Telecommunications,51e3,www.centurylink.com
+167,NextEra Energy,Energy,Utilities: Gas and Electric,14e3,www.nexteraenergy.com
+168,PG&E Corp.,Energy,Utilities: Gas and Electric,23e3,www.pgecorp.com
+169,Synnex,Wholesalers,Wholesalers: Electronics and Office Equipment,113600,www.synnex.com
+170,WellCare Health Plans,Health Care,Health Care: Insurance and Managed Care,8900,www.wellcare.com
+171,Performance Food Group,Wholesalers,Wholesalers: Food and Grocery,14e3,www.pfgc.com
+172,Sears Holdings,Retailing,General Merchandisers,89e3,www.searsholdings.com
+173,Synchrony Financial,Financials,Diversified Financials,16e3,www.synchronyfinancial.com
+174,CarMax,Retailing,"Automotive Retailing, Services",24344,www.carmax.com
+175,Bank of New York Mellon,Financials,Commercial Banks,52500,www.bnymellon.com
+176,Freeport-McMoRan,Energy,"Mining, Crude-Oil Production",25200,www.fcx.com
+177,Genuine Parts,Wholesalers,Wholesalers: Diversified,48e3,www.genpt.com
+178,Emerson Electric,Industrials,Industrial Machinery,76500,www.emerson.com
+179,DaVita,Health Care,Health Care: Medical Facilities,74500,www.davita.com
+180,Supervalu,Food & Drug Stores,Food and Drug Stores,29e3,www.supervalu.com
+181,Gap,Retailing,Specialty Retailers: Apparel,135e3,www.gapinc.com
+182,General Mills,"Food, Beverages & Tobacco",Food Consumer Products,38e3,www.generalmills.com
+183,Nordstrom,Retailing,General Merchandisers,76e3,www.nordstrom.com
+184,Colgate-Palmolive,Household Products,Household and Personal Products,35900,www.colgatepalmolive.com
+185,American Electric Power,Energy,Utilities: Gas and Electric,17666,www.aep.com
+186,XPO Logistics,Transportation,Transportation and Logistics,95e3,www.xpo.com
+187,Goodyear Tire & Rubber,Motor Vehicles & Parts,Motor Vehicles and Parts,64e3,www.goodyear.com
+188,Omnicom Group,Business Services,"Advertising, marketing",77300,www.omnicomgroup.com
+189,CDW,Technology,Information Technology Services,8726,www.cdw.com
+190,Sherwin-Williams,Chemicals,Chemicals,52695,www.sherwin.com
+191,PPG Industries,Chemicals,Chemicals,47200,www.ppg.com
+192,Texas Instruments,Technology,Semiconductors and Other Electronic Components,29714,www.ti.com
+193,C.H. Robinson Worldwide,Transportation,Transportation and Logistics,15074,www.chrobinson.com
+194,WestRock,Materials,"Packaging, Containers",44800,www.westrock.com
+195,Cognizant Technology Solutions,Technology,Information Technology Services,26e4,www.cognizant.com
+196,Newell Brands,Household Products,"Home Equipment, Furnishings",49e3,www.newellbrands.com
+197,CBS,Media,Entertainment,14715,www.cbscorporation.com
+198,Envision Healthcare,Health Care,Health Care: Pharmacy and Other Services,57750,www.evhc.net
+199,Monsanto,Chemicals,Chemicals,21900,www.monsanto.com
+200,Aramark,Business Services,Diversified Outsourcing Services,215e3,www.aramark.com
+201,Applied Materials,Technology,Semiconductors and Other Electronic Components,18400,www.appliedmaterials.com
+202,Waste Management,Business Services,Waste Management,42300,www.wm.com
+203,DISH Network,Telecommunications,Telecommunications,17e3,www.dish.com
+204,Illinois Tool Works,Industrials,Industrial Machinery,5e4,www.itw.com
+205,Lincoln National,Financials,"Insurance: Life, Health (stock)",9047,www.lfg.com
+206,HollyFrontier,Energy,Petroleum Refining,3522,www.hollyfrontier.com
+207,CBRE Group,Financials,Real estate,8e4,www.cbre.com
+208,Textron,Aerospace & Defense,Aerospace and Defense,37e3,www.textron.com
+209,Ross Stores,Retailing,Specialty Retailers: Apparel,82700,www.rossstores.com
+210,Principal Financial,Financials,"Insurance: Life, Health (stock)",15378,www.principal.com
+211,D.R. Horton,Engineering & Construction,Homebuilders,7735,www.drhorton.com
+212,Marsh & McLennan,Financials,Diversified Financials,64e3,www.mmc.com
+213,Devon Energy,Energy,"Mining, Crude-Oil Production",3414,www.devonenergy.com
+214,AES,Energy,Utilities: Gas and Electric,10500,www.aes.com
+215,Ecolab,Chemicals,Chemicals,48400,www.ecolab.com
+216,Land O’Lakes,"Food, Beverages & Tobacco",Food Consumer Products,1e4,www.landolakesinc.com
+217,Loews,Financials,Insurance: Property and Casualty (Stock),18100,www.loews.com
+218,Kinder Morgan,Energy,Pipelines,10897,www.kindermorgan.com
+219,FirstEnergy,Energy,Utilities: Gas and Electric,15617,www.firstenergycorp.com
+220,Occidental Petroleum,Energy,"Mining, Crude-Oil Production",11e3,www.oxy.com
+221,Viacom,Media,Entertainment,11200,www.viacom.com
+222,PayPal Holdings,Business Services,Financial Data Services,18700,www.paypal.com
+223,NGL Energy Partners,Energy,Energy,2700,www.nglenergypartners.com
+224,Celgene,Health Care,Pharmaceuticals,7467,www.celgene.com
+225,Arconic,Aerospace & Defense,Aerospace and Defense,41500,www.arconic.com
+226,Kellogg,"Food, Beverages & Tobacco",Food Consumer Products,32944,www.kelloggcompany.com
+227,Las Vegas Sands,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",50500,www.sands.com
+228,Stanley Black & Decker,Household Products,"Home Equipment, Furnishings",57765,www.stanleyblackanddecker.com
+229,Booking Holdings,Technology,Internet Services and Retailing,22900,www.bookingholdings.com
+230,Lennar,Engineering & Construction,Homebuilders,9111,www.lennar.com
+231,L Brands,Retailing,Specialty Retailers: Apparel,59200,www.lb.com
+232,DTE Energy,Energy,Utilities: Gas and Electric,10200,www.dteenergy.com
+233,Dominion Energy,Energy,Utilities: Gas and Electric,16200,www.dominionenergy.com
+234,Reinsurance Group of America,Financials,"Insurance: Life, Health (stock)",2640,www.rgare.com
+235,J.C. Penney,Retailing,General Merchandisers,98e3,www.jcpenney.com
+236,Mastercard,Business Services,Financial Data Services,13400,www.mastercard.com
+237,BlackRock,Financials,Securities,13900,www.blackrock.com
+238,Henry Schein,Wholesalers,Wholesalers: Health Care,22e3,www.henryschein.com
+239,Guardian Life Ins. Co. of America,Financials,"Insurance: Life, Health (Mutual)",9283,www.guardianlife.com
+240,Stryker,Health Care,Medical Products and Equipment,33e3,www.stryker.com
+241,Leucadia National,Financials,Diversified Financials,12700,www.leucadia.com
+242,VF,Apparel,Apparel,69e3,www.vfc.com
+243,ADP,Business Services,Diversified Outsourcing Services,58e3,www.adp.com
+244,Edison International,Energy,Utilities: Gas and Electric,12521,www.edisoninvestor.com
+245,Biogen,Health Care,Pharmaceuticals,7300,www.biogen.com
+246,United States Steel,Materials,Metals,29200,www.ussteel.com
+247,Core-Mark Holding,Wholesalers,Wholesalers: Food and Grocery,8413,www.core-mark.com
+248,Bed Bath & Beyond,Retailing,Specialty Retailers: Other,65e3,www.bedbathandbeyond.com
+249,Oneok,Energy,Pipelines,2470,www.oneok.com
+250,BB&T Corp.,Financials,Commercial Banks,36484,www.bbt.com
+251,Becton Dickinson,Health Care,Medical Products and Equipment,41933,www.bd.com
+252,Ameriprise Financial,Financials,Diversified Financials,13312,www.ameriprise.com
+253,Farmers Insurance Exchange,Financials,Insurance: Property and Casualty (Mutual),13015,www.farmers.com
+254,First Data,Business Services,Financial Data Services,22e3,www.firstdata.com
+255,Consolidated Edison,Energy,Utilities: Gas and Electric,15591,www.conedison.com
+256,Parker-Hannifin,Industrials,Industrial Machinery,56690,www.parker.com
+257,Anadarko Petroleum,Energy,"Mining, Crude-Oil Production",4400,www.anadarko.com
+258,Estee Lauder,Household Products,Household and Personal Products,46e3,www.elcompanies.com
+259,State Street Corp.,Financials,Commercial Banks,36643,www.statestreet.com
+260,Tesla,Motor Vehicles & Parts,Motor Vehicles and Parts,37543,www.tesla.com
+261,Netflix,Technology,Internet Services and Retailing,5100,www.netflix.com
+262,Alcoa,Materials,Metals,14600,www.alcoa.com
+263,Discover Financial Services,Financials,Commercial Banks,16500,www.discover.com
+264,Praxair,Chemicals,Chemicals,26461,www.praxair.com
+265,CSX,Transportation,Railroads,24006,www.csx.com
+266,Xcel Energy,Energy,Utilities: Gas and Electric,11105,www.xcelenergy.com
+267,Unum Group,Financials,"Insurance: Life, Health (stock)",9400,www.unum.com
+268,Universal Health Services,Health Care,Health Care: Medical Facilities,72300,www.uhsinc.com
+269,NRG Energy,Energy,Energy,5940,www.nrg.com
+270,EOG Resources,Energy,"Mining, Crude-Oil Production",2664,www.eogresources.com
+271,Sempra Energy,Energy,Utilities: Gas and Electric,16046,www.sempra.com
+272,Toys “R” Us,Retailing,Specialty Retailers: Other,65e3,www.toysrusinc.com
+273,Group 1 Automotive,Retailing,"Automotive Retailing, Services",14108,www.group1auto.com
+274,Entergy,Energy,Utilities: Gas and Electric,13504,www.entergy.com
+275,Molson Coors Brewing,"Food, Beverages & Tobacco",Beverages,17200,www.molsoncoors.com
+276,L3 Technologies,Aerospace & Defense,Aerospace and Defense,38e3,www.l3t.com
+277,Ball,Materials,"Packaging, Containers",18300,www.ball.com
+278,AutoZone,Retailing,Specialty Retailers: Other,70035,www.autozone.com
+279,Murphy USA,Retailing,Specialty Retailers: Other,6900,www.murphyusa.com
+280,MGM Resorts International,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",68500,www.mgmresorts.com
+281,Office Depot,Retailing,Specialty Retailers: Other,45e3,www.officedepot.com
+282,Huntsman,Chemicals,Chemicals,1e4,www.huntsman.com
+283,Baxter International,Health Care,Medical Products and Equipment,47e3,www.baxter.com
+284,Norfolk Southern,Transportation,Railroads,27110,www.norfolksouthern.com
+285,salesforce.com,Technology,Computer Software,29e3,www.salesforce.com
+286,Laboratory Corp. of America,Health Care,Health Care: Pharmacy and Other Services,6e4,www.labcorp.com
+287,W.W. Grainger,Wholesalers,Wholesalers: Diversified,25050,www.grainger.com
+288,Qurate Retail,Retailing,Internet Services and Retailing,28255,www.libertyinteractive.com
+289,Autoliv,Motor Vehicles & Parts,Motor Vehicles and Parts,67352,www.autoliv.com
+290,Live Nation Entertainment,Media,Entertainment,15050,www.livenationentertainment.com
+291,Xerox,Technology,"Computers, Office Equipment",36100,www.xerox.com
+292,Leidos Holdings,Technology,Information Technology Services,31e3,www.leidos.com
+293,Corning,Industrials,"Electronics, Electrical Equip.",46200,www.corning.com
+294,Lithia Motors,Retailing,"Automotive Retailing, Services",12899,www.lithiainvestorrelations.com
+295,Expedia Group,Retailing,Internet Services and Retailing,22615,www.expediagroup.com
+296,Republic Services,Business Services,Waste Management,35e3,www.republicservices.com
+297,Jacobs Engineering Group,Engineering & Construction,"Engineering, Construction",49750,www.jacobs.com
+298,Sonic Automotive,Retailing,"Automotive Retailing, Services",9750,www.sonicautomotive.com
+299,Ally Financial,Financials,Diversified Financials,7900,www.ally.com
+300,LKQ,Wholesalers,Wholesalers: Diversified,43e3,www.lkqcorp.com
+301,BorgWarner,Motor Vehicles & Parts,Motor Vehicles and Parts,29e3,www.borgwarner.com
+302,Fidelity National Financial,Financials,Insurance: Property and Casualty (Stock),24525,www.fnf.com
+303,SunTrust Banks,Financials,Commercial Banks,23785,www.suntrust.com
+304,IQVIA Holdings,Health Care,Health Care: Pharmacy and Other Services,55e3,www.iqvia.com
+305,Reliance Steel & Aluminum,Materials,Metals,14900,www.rsac.com
+306,Nvidia,Technology,Semiconductors and Other Electronic Components,11528,www.nvidia.com
+307,Voya Financial,Financials,Diversified Financials,6300,www.voya.com
+308,CenterPoint Energy,Energy,Utilities: Gas and Electric,7977,www.centerpointenergy.com
+309,eBay,Technology,Internet Services and Retailing,14100,www.ebay.com
+310,Eastman Chemical,Chemicals,Chemicals,14e3,www.eastman.com
+311,American Family Insurance Group,Financials,Insurance: Property and Casualty (Stock),11307,www.amfam.com
+312,Steel Dynamics,Materials,Metals,7635,www.steeldynamics.com
+313,Pacific Life,Financials,"Insurance: Life, Health (stock)",3578,www.pacificlife.com
+314,Chesapeake Energy,Energy,"Mining, Crude-Oil Production",3200,www.chk.com
+315,Mohawk Industries,Household Products,"Home Equipment, Furnishings",38800,www.mohawkind.com
+316,Quanta Services,Engineering & Construction,"Engineering, Construction",32800,www.quantaservices.com
+317,Advance Auto Parts,Retailing,Specialty Retailers: Other,55500,www.advanceautoparts.com
+318,Owens & Minor,Wholesalers,Wholesalers: Health Care,8600,www.owens-minor.com
+319,United Natural Foods,Wholesalers,Wholesalers: Food and Grocery,9700,www.unfi.com
+320,Tenneco,Motor Vehicles & Parts,Motor Vehicles and Parts,32e3,www.tenneco.com
+321,Conagra Brands,"Food, Beverages & Tobacco",Food Consumer Products,12600,www.conagrabrands.com
+322,GameStop,Retailing,Specialty Retailers: Other,39500,www.gamestop.com
+323,Hormel Foods,"Food, Beverages & Tobacco",Food Consumer Products,20200,www.hormelfoods.com
+324,Hilton Worldwide Holdings,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",163e3,www.hiltonworldwide.com
+325,Frontier Communications,Telecommunications,Telecommunications,22736,www.frontier.com
+326,Fidelity National Information Services,Business Services,Financial Data Services,53e3,www.fisglobal.com
+327,Public Service Enterprise Group,Energy,Utilities: Gas and Electric,12945,www.pseg.com
+328,Boston Scientific,Health Care,Medical Products and Equipment,29e3,www.bostonscientific.com
+329,O’Reilly Automotive,Retailing,Specialty Retailers: Other,60365,www.oreillyauto.com
+330,Charles Schwab,Financials,Securities,17600,www.aboutschwab.com
+331,Global Partners,Wholesalers,Wholesalers: Diversified,2e3,www.globalp.com
+332,PVH,Apparel,Apparel,28050,www.pvh.com
+333,Avis Budget Group,Retailing,"Automotive Retailing, Services",26300,www.avisbudgetgroup.com
+334,Targa Resources,Energy,Pipelines,2130,www.targaresources.com
+335,Hertz Global Holdings,Retailing,"Automotive Retailing, Services",37e3,www.hertz.com
+336,Calpine,Energy,Energy,2290,www.calpine.com
+337,Mutual of Omaha Insurance,Financials,"Insurance: Life, Health (stock)",5896,www.mutualofomaha.com
+338,Crown Holdings,Materials,"Packaging, Containers",24342,www.crowncork.com
+339,Peter Kiewit Sons’,Engineering & Construction,"Engineering, Construction",22e3,www.kiewit.com
+340,Dick’s Sporting Goods,Retailing,Specialty Retailers: Other,30300,www.dicks.com
+341,PulteGroup,Engineering & Construction,Homebuilders,4810,www.pultegroupinc.com
+342,Navistar International,Industrials,Construction and Farm Machinery,11400,www.navistar.com
+343,Thrivent Financial for Lutherans,Financials,"Insurance: Life, Health (Mutual)",3622,www.thrivent.com
+344,DCP Midstream,Energy,Pipelines,2650,www.dcpmidstream.com
+345,Air Products & Chemicals,Chemicals,Chemicals,15150,www.airproducts.com
+346,Veritiv,Wholesalers,Wholesalers: Diversified,8900,www.veritivcorp.com
+347,AGCO,Industrials,Construction and Farm Machinery,20462,www.agcocorp.com
+348,Genworth Financial,Financials,"Insurance: Life, Health (stock)",3500,www.genworth.com
+349,Univar,Wholesalers,Wholesalers: Diversified,8600,www.univar.com
+350,News Corp.,Media,"Publishing, Printing",26e3,www.newscorp.com
+351,SpartanNash,Wholesalers,Wholesalers: Food and Grocery,11950,www.spartannash.com
+352,Westlake Chemical,Chemicals,Chemicals,8799,www.westlake.com
+353,Williams,Energy,Energy,5425,www.williams.com
+354,Lam Research,Technology,Semiconductors and Other Electronic Components,9400,www.lamresearch.com
+355,Alaska Air Group,Transportation,Airlines,23156,www.alaskaair.com
+356,Jones Lang LaSalle,Financials,Real estate,81900,www.jll.com
+357,Anixter International,Wholesalers,Wholesalers: Electronics and Office Equipment,8900,www.anixter.com
+358,Campbell Soup,"Food, Beverages & Tobacco",Food Consumer Products,18e3,www.campbellsoupcompany.com
+359,Interpublic Group,Business Services,"Advertising, marketing",50200,www.interpublic.com
+360,Dover,Industrials,Industrial Machinery,29e3,www.dovercorporation.com
+361,Zimmer Biomet Holdings,Health Care,Medical Products and Equipment,18200,www.zimmerbiomet.com
+362,Dean Foods,"Food, Beverages & Tobacco",Food Consumer Products,16e3,www.deanfoods.com
+363,Foot Locker,Retailing,Specialty Retailers: Apparel,32175,www.footlocker-inc.com
+364,Eversource Energy,Energy,Utilities: Gas and Electric,8084,www.eversource.com
+365,Alliance Data Systems,Business Services,Financial Data Services,2e4,www.alliancedata.com
+366,Fifth Third Bancorp,Financials,Commercial Banks,18125,www.53.com
+367,Quest Diagnostics,Health Care,Health Care: Pharmacy and Other Services,45e3,www.questdiagnostics.com
+368,EMCOR Group,Engineering & Construction,"Engineering, Construction",32e3,www.emcorgroup.com
+369,W.R. Berkley,Financials,Insurance: Property and Casualty (Stock),7722,www.wrberkley.com
+370,WESCO International,Wholesalers,Wholesalers: Diversified,9100,www.wesco.com
+371,Coty,Household Products,Household and Personal Products,22e3,www.coty.com
+372,WEC Energy Group,Energy,Utilities: Gas and Electric,8129,www.wecenergygroup.com
+373,Masco,Household Products,"Home Equipment, Furnishings",26e3,www.masco.com
+374,DXC Technology,Technology,Information Technology Services,6e4,www.dxc.technology
+375,Auto-Owners Insurance,Financials,Insurance: Property and Casualty (Mutual),5227,www.auto-owners.com
+376,Jones Financial (Edward Jones),Financials,Securities,45e3,www.edwardjones.com
+377,Liberty Media,Media,Entertainment,4393,www.libertymedia.com
+378,Erie Insurance Group,Financials,Insurance: Property and Casualty (Mutual),5260,www.erieinsurance.com
+379,Hershey,"Food, Beverages & Tobacco",Food Consumer Products,16135,www.thehersheycompany.com
+380,PPL,Energy,Utilities: Gas and Electric,12512,www.pplweb.com
+381,Huntington Ingalls Industries,Aerospace & Defense,Aerospace and Defense,38e3,www.huntingtoningalls.com
+382,Mosaic,Chemicals,Chemicals,8500,www.mosaicco.com
+383,J.M. Smucker,"Food, Beverages & Tobacco",Food Consumer Products,7140,www.jmsmucker.com
+384,Delek US Holdings,Energy,Petroleum Refining,3941,www.delekus.com
+385,Newmont Mining,Energy,"Mining, Crude-Oil Production",12569,www.newmont.com
+386,Constellation Brands,"Food, Beverages & Tobacco",Beverages,8700,www.cbrands.com
+387,Ryder System,Transportation,"Trucking, Truck Leasing",36100,www.ryder.com
+388,National Oilwell Varco,Energy,"Oil and Gas Equipment, Services",31605,www.nov.com
+389,Adobe Systems,Technology,Computer Software,17973,www.adobe.com
+390,LifePoint Health,Health Care,Health Care: Medical Facilities,42e3,www.lifepointhealth.net
+391,Tractor Supply,Retailing,Specialty Retailers: Other,21e3,www.tractorsupply.com
+392,Thor Industries,Motor Vehicles & Parts,Motor Vehicles and Parts,17800,www.thorindustries.com
+393,Dana,Motor Vehicles & Parts,Motor Vehicles and Parts,30100,www.dana.com
+394,Weyerhaeuser,Materials,Forest and Paper Products,9300,www.weyerhaeuser.com
+395,J.B. Hunt Transport Services,Transportation,"Trucking, Truck Leasing",24681,www.jbhunt.com
+396,Darden Restaurants,"Hotels, Restaurants & Leisure",Food Services,178729,www.darden.com
+397,Yum China Holdings,"Hotels, Restaurants & Leisure",Food Services,45e4,ir.yumchina.com
+398,Blackstone Group,Financials,Diversified Financials,2360,www.blackstone.com
+399,Berry Global Group,Materials,"Packaging, Containers",23e3,www.berryglobal.com
+400,Builders FirstSource,Materials,"Building Materials, Glass",15e3,www.bldr.com
+401,Activision Blizzard,Technology,Entertainment,9800,www.activisionblizzard.com
+402,JetBlue Airways,Transportation,Airlines,17424,www.jetblue.com
+403,Amphenol,Technology,Network and Other Communications Equipment,7e4,www.amphenol.com
+404,A-Mark Precious Metals,Materials,Miscellaneous,126,www.amark.com
+405,Spirit AeroSystems Holdings,Aerospace & Defense,Aerospace and Defense,15500,www.spiritaero.com
+406,R.R. Donnelley & Sons,Media,"Publishing, Printing",42700,www.rrdonnelley.com
+407,Harris,Aerospace & Defense,Aerospace and Defense,17e3,www.harris.com
+408,Expeditors Intl. of Washington,Transportation,Transportation and Logistics,16500,www.expeditors.com
+409,Discovery,Media,Entertainment,7e3,www.discovery.com
+410,Owens-Illinois,Materials,"Packaging, Containers",26500,www.o-i.com
+411,Sanmina,Technology,Semiconductors and Other Electronic Components,41250,www.sanmina.com
+412,KeyCorp,Financials,Commercial Banks,18415,www.key.com
+413,American Financial Group,Financials,Insurance: Property and Casualty (Stock),7600,www.afginc.com
+414,Oshkosh,Industrials,Construction and Farm Machinery,14e3,www.oshkoshcorporation.com
+415,Rockwell Collins,Aerospace & Defense,Aerospace and Defense,29e3,www.rockwellcollins.com
+416,Kindred Healthcare,Health Care,Health Care: Medical Facilities,64200,www.kindredhealthcare.com
+417,Insight Enterprises,Technology,Information Technology Services,6697,www.insight.com
+418,Dr Pepper Snapple Group,"Food, Beverages & Tobacco",Beverages,21e3,www.drpeppersnapplegroup.com
+419,American Tower,Financials,Real estate,4752,www.americantower.com
+420,Fortive,Industrials,Industrial Machinery,26e3,www.fortive.com
+421,Ralph Lauren,Apparel,Apparel,18250,www.ralphlauren.com
+422,HRG Group,Household Products,Household and Personal Products,17113,www.hrggroup.com
+423,Ascena Retail Group,Retailing,Specialty Retailers: Apparel,4e4,www.ascenaretail.com
+424,United Rentals,Business Services,Miscellaneous,14800,www.unitedrentals.com
+425,Casey’s General Stores,Retailing,Specialty Retailers: Other,25463,www.caseys.com
+426,Graybar Electric,Wholesalers,Wholesalers: Diversified,8500,www.graybar.com
+427,Avery Dennison,Materials,"Packaging, Containers",3e4,www.averydennison.com
+428,MasTec,Engineering & Construction,"Engineering, Construction",17300,www.mastec.com
+429,CMS Energy,Energy,Utilities: Gas and Electric,7887,www.cmsenergy.com
+430,HD Supply Holdings,Wholesalers,Wholesalers: Diversified,11e3,www.hdsupply.com
+431,Raymond James Financial,Financials,Securities,12700,www.raymondjames.com
+432,NCR,Technology,"Computers, Office Equipment",34e3,www.ncr.com
+433,Hanesbrands,Apparel,Apparel,67200,www.hanes.com
+434,Asbury Automotive Group,Retailing,"Automotive Retailing, Services",8e3,www.asburyauto.com
+435,Citizens Financial Group,Financials,Commercial Banks,17594,www.citizensbank.com
+436,Packaging Corp. of America,Materials,"Packaging, Containers",14600,www.packagingcorp.com
+437,Alleghany,Financials,Insurance: Property and Casualty (Stock),4402,www.alleghany.com
+438,Apache,Energy,"Mining, Crude-Oil Production",3356,www.apachecorp.com
+439,Dillard’s,Retailing,General Merchandisers,31400,www.dillards.com
+440,Assurant,Financials,Insurance: Property and Casualty (Stock),14175,www.assurant.com
+441,Franklin Resources,Financials,Securities,9386,www.franklinresources.com
+442,Owens Corning,Materials,"Building Materials, Glass",17e3,www.owenscorning.com
+443,Motorola Solutions,Technology,Network and Other Communications Equipment,15e3,www.motorolasolutions.com
+444,NVR,Engineering & Construction,Homebuilders,5200,www.nvrinc.com
+445,Rockwell Automation,Industrials,"Electronics, Electrical Equip.",22e3,www.rockwellautomation.com
+446,TreeHouse Foods,"Food, Beverages & Tobacco",Food Consumer Products,13489,www.treehousefoods.com
+447,Wynn Resorts,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",25200,www.wynnresorts.com
+448,Olin,Chemicals,Chemicals,6400,www.olin.com
+449,American Axle & Manufacturing,Motor Vehicles & Parts,Motor Vehicles and Parts,25e3,www.aam.com
+450,Old Republic International,Financials,Insurance: Property and Casualty (Stock),8700,www.oldrepublic.com
+451,Chemours,Chemicals,Chemicals,7e3,www.chemours.com
+452,iHeartMedia,Media,Entertainment,18700,www.iheartmedia.com
+453,Ameren,Energy,Utilities: Gas and Electric,8615,www.ameren.com
+454,Arthur J. Gallagher,Financials,Diversified Financials,26783,www.ajg.com
+455,Celanese,Chemicals,Chemicals,7592,www.celanese.com
+456,Sealed Air,Materials,"Packaging, Containers",15e3,www.sealedair.com
+457,UGI,Energy,Energy,13e3,www.ugicorp.com
+458,Realogy Holdings,Financials,Real estate,11800,www.realogy.com
+459,Burlington Stores,Retailing,Specialty Retailers: Apparel,4e4,www.burlington.com
+460,Regions Financial,Financials,Commercial Banks,21714,www.regions.com
+461,AK Steel Holding,Materials,Metals,9200,www.aksteel.com
+462,Securian Financial Group,Financials,"Insurance: Life, Health (stock)",5e3,www.securian.com
+463,S&P Global,Business Services,Financial Data Services,20400,www.spglobal.com
+464,Markel,Financials,Insurance: Property and Casualty (Stock),15600,www.markelcorp.com
+465,TravelCenters of America,Retailing,Specialty Retailers: Other,19611,www.ta-petro.com
+466,Conduent,Business Services,Diversified Outsourcing Services,9e4,www.conduent.com
+467,M&T Bank Corp.,Financials,Commercial Banks,16354,www.mtb.com
+468,Clorox,Household Products,Household and Personal Products,8100,www.thecloroxcompany.com
+469,AmTrust Financial Services,Financials,Insurance: Property and Casualty (Stock),9300,www.amtrustfinancial.com
+470,KKR,Financials,Securities,1184,www.kkr.com
+471,Ulta Beauty,Retailing,Specialty Retailers: Other,24200,www.ulta.com
+472,Yum Brands,"Hotels, Restaurants & Leisure",Food Services,6e4,www.yum.com
+473,Regeneron Pharmaceuticals,Health Care,Pharmaceuticals,6200,www.regeneron.com
+474,Windstream Holdings,Telecommunications,Telecommunications,12979,www.windstream.com
+475,Magellan Health,Health Care,Health Care: Insurance and Managed Care,10700,www.magellanhealth.com
+476,Western & Southern Financial,Financials,"Insurance: Life, Health (Mutual)",2226,www.westernsouthern.com
+477,Intercontinental Exchange,Financials,Securities,4952,www.theice.com
+478,Ingredion,"Food, Beverages & Tobacco",Food Production,11e3,www.ingredion.com
+479,Wyndham Worldwide,"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",39200,www.wyndhamworldwide.com
+480,Toll Brothers,Engineering & Construction,Homebuilders,4500,www.tollbrothers.com
+481,Seaboard,"Food, Beverages & Tobacco",Food Production,11800,www.seaboardcorp.com
+482,Booz Allen Hamilton,Technology,Information Technology Services,23300,www.boozallen.com
+483,First American Financial,Financials,Insurance: Property and Casualty (Stock),18705,www.firstam.com
+484,Cincinnati Financial,Financials,Insurance: Property and Casualty (Stock),4925,www.cinfin.com
+485,Avon Products,Household Products,Household and Personal Products,25e3,www.avoninvestor.com
+486,Northern Trust,Financials,Commercial Banks,18100,www.northerntrust.com
+487,Fiserv,Business Services,Financial Data Services,24e3,www.fiserv.com
+488,Harley-Davidson,Transportation,Transportation Equipment,5800,www.harley-davidson.com
+489,Cheniere Energy,Energy,Energy,1230,www.cheniere.com
+490,Patterson,Wholesalers,Wholesalers: Health Care,7500,www.pattersoncompanies.com
+491,Peabody Energy,Energy,"Mining, Crude-Oil Production",7100,www.peabodyenergy.com
+492,ON Semiconductor,Technology,Semiconductors and Other Electronic Components,34e3,www.onsemi.com
+493,Simon Property Group,Financials,Real estate,4150,www.simon.com
+494,Western Union,Business Services,Financial Data Services,11500,www.westernunion.com
+495,NetApp,Technology,"Computers, Office Equipment",10100,www.netapp.com
+496,Polaris Industries,Transportation,Transportation Equipment,11e3,www.polaris.com
+497,Pioneer Natural Resources,Energy,"Mining, Crude-Oil Production",3836,www.pxd.com
+498,ABM Industries,Business Services,Diversified Outsourcing Services,14e4,www.abm.com
+499,Vistra Energy,Energy,Energy,4150,www.vistraenergy.com
+500,Cintas,Business Services,Diversified Outsourcing Services,42e3,www.cintas.com
